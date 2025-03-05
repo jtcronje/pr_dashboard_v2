@@ -459,12 +459,13 @@ def render_employee_detail_page(data_dict, filters):
 
                             Your response should not exceed 200 words.
                             """
-                            
+                            api_key = st.secrets.get("OPENAI_API_KEY", "your-openai-api-key-here")
                             # Call the OpenAI API
                             try:
                                 model = ChatOpenAI(
                                     model="gpt-4o-mini", 
-                                    temperature=0.7
+                                    temperature=0.7,
+                                    openai_api_key=api_key 
                                 )
                                 
                                 response = model.invoke([
