@@ -343,9 +343,10 @@ def render_productivity_page(data_dict, filters):
                     try:
                         # Set OpenAI API key from secrets
                         os.environ["OPENAI_API_KEY"] = st.secrets.get("OPENAI_API_KEY", "your-openai-api-key-here")
+                        api_key = st.secrets.get("OPENAI_API_KEY", "your-openai-api-key-here")
                         
                         # Create the LangChain model with OpenAI
-                        model = ChatOpenAI(model="gpt-4o-mini", temperature=0.7)
+                        model = ChatOpenAI(model="gpt-4o-mini", temperature=0.7,openai_api_key=api_key )
                         
                         # Prepare the data for interpretation
                         heatmap_data_str = json.dumps(perf_matrix.to_dict())
@@ -562,9 +563,10 @@ def render_productivity_page(data_dict, filters):
                 try:
                     # Set OpenAI API key from secrets
                     os.environ["OPENAI_API_KEY"] = st.secrets.get("OPENAI_API_KEY", "your-openai-api-key-here")
-                    
+                     # Get OpenAI API key from secrets
+                    api_key = st.secrets.get("OPENAI_API_KEY", "your-openai-api-key-here")
                     # Create the LangChain model with OpenAI
-                    model = ChatOpenAI(model="gpt-4o-mini", temperature=0.7)
+                    model = ChatOpenAI(model="gpt-4o-mini", temperature=0.7,openai_api_key=api_key )
                     
                     # Prepare the data for interpretation
                     ai_data_str = json.dumps(ai_data.to_dict())
