@@ -1,0 +1,12 @@
+streamlit==1.31.0
+pandas==2.2.0
+numpy==1.26.3
+plotly==5.18.0
+faker==22.6.0
+matplotlib==3.8.2
+wordcloud==1.9.2
+reportlab==4.0.9
+langchain==0.0.350
+langchain-core==0.1.27
+langchain-openai==0.0.5
+openai==1.12.0

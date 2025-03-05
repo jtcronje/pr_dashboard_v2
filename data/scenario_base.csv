@@ -1,0 +1,8 @@
+location,permanent_count,seasonal_count,contract_count,total_employees,avg_salary_permanent,avg_salary_seasonal,avg_salary_contract,monthly_payroll
+Ceres,120,200,20,340,8500,3800,6500,1530000
+Dullstroom,80,50,10,140,7800,3700,6200,712000
+Graaff-Reinet,100,150,15,265,8200,3900,6400,1325000
+Upington,90,100,12,202,7900,3850,6300,1010000
+Citrusdal,110,180,18,308,8100,3750,6350,1386000
+Ceres Pack House,50,80,8,138,9200,4200,7000,828000
+Citrusdal Pack House,45,70,7,122,9000,4100,6800,768000

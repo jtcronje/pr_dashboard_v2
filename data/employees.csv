@@ -1,0 +1,1001 @@
+employee_id,first_name,last_name,date_of_birth,gender,ethnicity,has_disability,join_date,department,job_title,location,worker_type,salary,manager_id
+1,Margaret,Johnson,1972-09-10,Female,Black African,False,2017-11-18 11:01:19.452190,Management,HR Manager,Citrusdal Pack House,Permanent,31170,
+2,Daniel,Doyle,1985-02-22,Male,Black African,False,2014-09-30 11:01:19.452190,Management,Operations Manager,Citrusdal Pack House,Permanent,37055,
+3,Steven,Miller,1977-03-31,Male,Indian/Asian,False,2014-04-18 11:01:19.452190,Management,Production Manager,Upington,Permanent,36313,
+4,Allen,Robinson,1979-11-01,Male,Black African,False,2019-06-30 11:01:19.452190,Management,Operations Manager,Ceres Pack House,Permanent,24693,
+5,Alexander,Gonzalez,1984-04-24,Male,Black African,False,2010-05-05 11:01:19.452190,Management,Finance Manager,Ceres Pack House,Permanent,31460,
+6,Kimberly,Robinson,1982-06-08,Female,Black African,False,2009-04-10 11:01:19.452190,Management,HR Manager,Dullstroom,Permanent,19993,
+7,Robert,Smith,1989-02-23,Male,Indian/Asian,False,2019-02-10 11:01:19.452190,Management,Production Manager,Ceres Pack House,Permanent,28268,
+8,Melissa,Peterson,1968-12-27,Female,Black African,False,2015-02-16 11:01:19.452190,Management,Production Manager,Citrusdal,Permanent,18291,
+9,Tina,Rogers,1967-01-17,Female,Black African,False,2016-09-25 11:01:19.452190,Management,HR Manager,Ceres,Permanent,18351,
+10,Brent,Abbott,1982-11-19,Male,Black African,True,2010-12-09 11:01:19.452190,Management,HR Manager,Dullstroom,Permanent,31419,
+11,Renee,Blair,1980-10-16,Female,Black African,False,2023-01-24 11:01:19.452190,Management,Production Manager,Citrusdal Pack House,Permanent,32575,
+12,William,Gray,1981-04-13,Male,Black African,False,2009-03-23 11:01:19.452190,Management,General Manager,Dullstroom,Permanent,22066,
+13,Sandra,Montgomery,1990-11-18,Female,White,False,2019-03-15 11:01:19.452190,Management,Operations Manager,Citrusdal Pack House,Permanent,37686,
+14,Kenneth,Bush,1965-08-03,Male,Black African,True,2016-06-26 11:01:19.452190,Management,General Manager,Ceres Pack House,Permanent,25157,
+15,Darren,Roberts,1966-08-23,Male,Black African,False,2013-03-27 11:01:19.452190,Management,Operations Manager,Citrusdal,Permanent,39235,
+16,David,Garcia,1972-10-14,Male,Black African,False,2013-09-02 11:01:19.452190,Management,HR Manager,Upington,Permanent,21635,
+17,Madison,Diaz,1975-08-24,Female,Black African,False,2021-08-29 11:01:19.452190,Management,Farm Manager,Ceres,Permanent,18121,5.0
+18,Christine,Adams,1993-03-15,Female,Black African,False,2012-08-08 11:01:19.452190,Management,Production Manager,Graaff-Reinet,Permanent,34967,4.0
+19,Matthew,Lynch,1969-06-22,Male,Black African,False,2019-10-01 11:01:19.452190,Management,Operations Manager,Citrusdal,Permanent,36988,6.0
+20,Nicholas,Martin,1975-12-07,Male,Black African,False,2010-03-09 11:01:19.452190,Management,Operations Manager,Upington,Permanent,32714,15.0
+21,Wanda,Bowman,1981-06-07,Female,Black African,False,2011-02-03 11:01:19.452190,Management,Production Manager,Citrusdal,Permanent,30347,1.0
+22,Melinda,Cameron,1988-03-22,Female,Coloured,False,2020-03-03 11:01:19.452190,Management,Finance Manager,Graaff-Reinet,Permanent,33878,15.0
+23,Daryl,Johnson,1973-12-12,Male,Black African,False,2011-03-20 11:01:19.452190,Management,General Manager,Citrusdal Pack House,Permanent,27405,3.0
+24,Derek,Clark,1993-05-25,Male,Black African,False,2012-01-31 11:01:19.452190,Management,HR Manager,Dullstroom,Permanent,32001,1.0
+25,Shawn,Edwards,1984-06-26,Male,White,True,2013-10-12 11:01:19.452190,Management,Finance Manager,Upington,Permanent,23484,14.0
+26,James,Rocha,1978-05-24,Male,Indian/Asian,False,2018-06-28 11:01:19.452190,Management,Production Manager,Citrusdal,Permanent,31175,3.0
+27,Deborah,Wright,1981-07-27,Female,Black African,False,2012-03-26 11:01:19.452190,Management,General Manager,Graaff-Reinet,Permanent,24503,4.0
+28,Dennis,Richards,1992-01-01,Male,Black African,False,2013-12-16 11:01:19.452190,Management,General Manager,Citrusdal,Permanent,27163,2.0
+29,James,Robinson,1995-02-03,Male,Black African,False,2018-02-13 11:01:19.452190,Management,Production Manager,Ceres Pack House,Permanent,25838,5.0
+30,Jordan,Davis,1965-08-18,Male,Black African,False,2012-04-06 11:01:19.452190,Management,Farm Manager,Ceres Pack House,Permanent,18011,8.0
+31,Brian,Burton,1988-09-20,Male,Black African,False,2017-06-13 11:01:19.452190,Management,Farm Manager,Citrusdal,Permanent,29749,10.0
+32,Jennifer,Brown,1975-12-31,Female,Black African,False,2013-08-08 11:01:19.452190,Management,Finance Manager,Ceres Pack House,Permanent,23370,9.0
+33,Zachary,Rice,1994-04-09,Male,Black African,False,2022-09-28 11:01:19.452190,Management,General Manager,Graaff-Reinet,Permanent,26884,13.0
+34,Scott,Smith,1986-07-06,Male,Black African,False,2017-10-08 11:01:19.452190,Management,Farm Manager,Ceres Pack House,Permanent,33318,7.0
+35,Michael,Herrera,1972-06-09,Male,Indian/Asian,False,2019-07-26 11:01:19.452190,Management,Farm Manager,Graaff-Reinet,Permanent,23869,16.0
+36,Martin,Rodriguez,1977-08-24,Male,Black African,False,2021-05-23 11:01:19.452190,Management,Operations Manager,Dullstroom,Permanent,25591,5.0
+37,Jody,Mckay,1991-04-27,Female,Black African,False,2014-08-09 11:01:19.452190,Management,Production Manager,Ceres,Permanent,27851,10.0
+38,Dennis,Mason,1969-09-15,Male,Black African,False,2013-01-08 11:01:19.452190,Management,HR Manager,Ceres Pack House,Permanent,23327,9.0
+39,Susan,Harrell,1973-06-02,Female,Black African,False,2012-08-07 11:01:19.452190,Management,Finance Manager,Ceres Pack House,Permanent,29787,15.0
+40,Mark,Lynch,1968-11-27,Male,Black African,False,2022-09-18 11:01:19.452190,Management,Farm Manager,Ceres,Permanent,18897,1.0
+41,Pamela,Ryan,1988-04-21,Female,Black African,False,2011-03-25 11:01:19.452190,Management,HR Manager,Upington,Permanent,29266,13.0
+42,Kerry,Smith,1974-03-21,Female,Black African,False,2010-04-04 11:01:19.452190,Management,HR Manager,Graaff-Reinet,Permanent,33200,3.0
+43,Alicia,Hickman,1991-05-29,Female,Black African,False,2017-08-21 11:01:19.452190,Management,Operations Manager,Citrusdal Pack House,Permanent,34174,8.0
+44,Sandra,Parker,1965-12-18,Female,Black African,False,2013-05-13 11:01:19.452190,Management,General Manager,Dullstroom,Permanent,21849,2.0
+45,Shawn,Arroyo,1966-10-28,Male,Black African,False,2021-04-23 11:01:19.452190,Management,HR Manager,Ceres,Permanent,20048,13.0
+46,Katelyn,Jones,1987-09-30,Female,Black African,False,2017-10-06 11:01:19.452190,Management,Finance Manager,Upington,Permanent,25458,14.0
+47,Pamela,Anderson,1978-11-26,Female,White,False,2013-02-24 11:01:19.452190,Management,Production Manager,Graaff-Reinet,Permanent,37515,6.0
+48,Joshua,Baker,1991-03-19,Male,Black African,False,2017-12-23 11:01:19.452190,Management,HR Manager,Ceres,Permanent,37768,7.0
+49,Jay,Lewis,1980-11-19,Male,Black African,False,2013-06-21 11:01:19.452190,Management,General Manager,Upington,Permanent,32597,14.0
+50,Nicholas,Harris,1973-10-31,Male,Black African,False,2013-01-01 11:01:19.452190,Management,Operations Manager,Citrusdal,Permanent,33221,3.0
+51,Zachary,Santos,1980-03-12,Male,Black African,False,2024-12-20 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,3732,37.0
+52,Joseph,Martinez,1972-04-04,Male,White,False,2024-11-25 11:01:19.452190,Citrus Production,Farm Supervisor,Ceres,Seasonal,3868,45.0
+53,George,Chapman,1970-03-19,Male,Black African,False,2024-11-14 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4144,3.0
+54,Daniel,Jones,1986-11-21,Male,White,False,2023-09-20 11:01:19.452190,Logistics,Logistics Supervisor,Upington,Permanent,13631,41.0
+55,Crystal,Whitehead,2000-06-06,Female,Black African,False,2024-02-17 11:01:19.452190,Logistics,Dispatcher,Ceres,Contract,4264,9.0
+56,Andrea,Young,1991-04-12,Female,Black African,False,2013-02-06 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Permanent,6402,10.0
+57,Daniel,Anderson,2004-01-27,Male,Black African,False,2024-11-11 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,4697,38.0
+58,Laura,Kennedy,1996-10-29,Female,Coloured,False,2024-10-01 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,4734,23.0
+59,Rhonda,Lee,1963-10-27,Female,Black African,False,2017-02-03 11:01:19.452190,Pack House Operations,Machine Operator,Citrusdal Pack House,Permanent,8811,43.0
+60,Jeffrey,Henderson,1981-08-01,Male,Black African,False,2025-02-04 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,3071,1.0
+61,Monica,Nunez,2006-05-29,Female,Black African,False,2012-02-12 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Permanent,13291,30.0
+62,Brett,Powell,1976-05-20,Male,Coloured,False,2012-02-17 11:01:19.452190,Logistics,Logistics Supervisor,Graaff-Reinet,Permanent,12363,35.0
+63,Scott,Wright,1968-04-18,Male,Black African,False,2024-09-25 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,3276,5.0
+64,Jerry,Henderson,1972-07-15,Male,Black African,False,2024-09-22 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,3050,29.0
+65,David,Leblanc,1980-06-08,Male,Black African,False,2014-12-23 11:01:19.452190,Pack House Operations,Machine Operator,Citrusdal Pack House,Permanent,7110,2.0
+66,Shannon,Pierce,1961-08-05,Female,Black African,False,2012-09-29 11:01:19.452190,Logistics,Driver,Ceres Pack House,Permanent,10223,32.0
+67,Zachary,Huff,1999-01-20,Male,Black African,False,2024-12-24 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,4515,8.0
+68,Timothy,Allison,1967-02-24,Male,Indian/Asian,False,2018-01-13 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Permanent,4765,16.0
+69,John,Lewis,1978-06-02,Male,Black African,False,2024-10-07 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3096,28.0
+70,Amy,Gray,2006-06-18,Female,Black African,False,2025-01-04 11:01:19.452190,Administration,Payroll Officer,Dullstroom,Seasonal,4712,36.0
+71,Deborah,Bowers,1981-01-03,Female,Indian/Asian,False,2024-11-12 11:01:19.452190,Pack House Operations,Machine Operator,Citrusdal Pack House,Seasonal,4150,2.0
+72,Jay,Bernard,2000-01-02,Male,Indian/Asian,False,2024-12-06 11:01:19.452190,Citrus Production,Farm Supervisor,Ceres,Seasonal,3772,9.0
+73,Justin,Higgins,1969-09-28,Male,Black African,False,2024-11-14 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Seasonal,3077,22.0
+74,Elizabeth,Novak,1985-01-07,Female,Black African,False,2024-12-07 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres,Seasonal,4628,9.0
+75,Kimberly,Adkins,1961-11-29,Female,White,False,2024-10-09 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Seasonal,4470,36.0
+76,Lauren,Shaw,1994-11-13,Female,Coloured,False,2023-12-05 11:01:19.452190,Maintenance,Maintenance Supervisor,Upington,Contract,14933,25.0
+77,Christopher,Yu,1967-01-20,Male,Black African,False,2015-11-22 11:01:19.452190,Logistics,Logistics Supervisor,Citrusdal Pack House,Permanent,16737,11.0
+78,Charlene,Larson,1991-07-30,Female,Black African,False,2019-06-06 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Permanent,8839,9.0
+79,David,Wilson,1996-03-21,Male,Black African,False,2020-11-25 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Permanent,13104,50.0
+80,David,Wheeler,1988-11-23,Male,Black African,False,2024-09-07 11:01:19.452190,Administration,Data Entry Clerk,Dullstroom,Seasonal,4107,36.0
+81,Jennifer,Silva,1982-12-28,Female,Indian/Asian,False,2024-11-20 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4991,2.0
+82,Taylor,Harris,1993-07-18,Female,Indian/Asian,False,2024-12-20 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4376,2.0
+83,David,Foster,1991-05-30,Male,White,False,2024-11-01 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,3293,26.0
+84,Elijah,Stewart,1991-03-28,Male,Coloured,False,2015-02-28 11:01:19.452190,Logistics,Logistics Supervisor,Graaff-Reinet,Permanent,19019,18.0
+85,Angel,Ellis,2007-02-03,Female,Black African,False,2024-10-12 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,3848,16.0
+86,Zachary,Jones,1969-05-26,Male,Black African,False,2014-11-04 11:01:19.452190,Administration,Data Entry Clerk,Ceres Pack House,Permanent,4732,34.0
+87,Deborah,Mahoney,1995-11-18,Female,Indian/Asian,False,2020-04-25 11:01:19.452190,Citrus Production,Irrigation Specialist,Ceres,Permanent,9239,9.0
+88,Shawn,Wood,1966-09-27,Male,Indian/Asian,True,2014-09-04 11:01:19.452190,Logistics,Forklift Operator,Ceres,Permanent,6668,45.0
+89,Roy,Warner,1988-07-11,Male,Black African,False,2020-01-11 11:01:19.452190,Administration,Office Manager,Citrusdal,Permanent,45223,15.0
+90,Victoria,Valdez,1964-06-13,Female,Black African,False,2010-08-17 11:01:19.452190,Citrus Production,Farm Supervisor,Ceres,Permanent,17107,37.0
+91,Robert,Evans,1991-01-04,Male,Black African,False,2022-04-16 11:01:19.452190,Logistics,Warehouse Worker,Ceres Pack House,Permanent,5424,34.0
+92,Todd,Taylor,1964-09-15,Male,Black African,False,2023-01-11 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Permanent,3795,6.0
+93,Brian,Tran,1973-12-22,Male,Black African,False,2010-10-13 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Permanent,11093,46.0
+94,Larry,Robbins,1968-12-09,Male,White,False,2022-10-10 11:01:19.452190,Administration,Admin Clerk,Citrusdal,Contract,5665,26.0
+95,Madison,Baker,1982-08-13,Female,Black African,False,2019-10-16 11:01:19.452190,Citrus Production,Harvester,Ceres,Permanent,5732,9.0
+96,Taylor,Mathis,1967-06-29,Male,Black African,False,2021-03-22 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Contract,6803,35.0
+97,Jeff,Hill,1959-05-04,Male,Black African,False,2017-01-28 11:01:19.452190,Logistics,Driver,Ceres Pack House,Permanent,9596,32.0
+98,Ray,Walsh,1973-08-07,Male,Black African,False,2024-10-04 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,3258,19.0
+99,Natalie,Arnold,1979-09-12,Female,Black African,False,2020-02-20 11:01:19.452190,Maintenance,Mechanic,Upington,Permanent,5053,49.0
+100,Adam,Jones,2001-07-22,Male,White,False,2024-09-16 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,4103,36.0
+101,Stuart,Gardner,1999-03-25,Male,Black African,False,2020-04-25 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Permanent,6034,35.0
+102,Kevin,Hernandez,1965-04-14,Male,Black African,False,2025-01-10 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3784,27.0
+103,Elizabeth,Nolan,1997-05-19,Female,Black African,False,2016-10-11 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Permanent,6268,12.0
+104,Scott,Nolan,1969-04-02,Male,Black African,False,2025-01-03 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3918,15.0
+105,Danielle,Garcia,1992-04-02,Female,Black African,False,2024-10-22 11:01:19.452190,Cattle Farming,Animal Care Specialist,Dullstroom,Seasonal,4074,12.0
+106,Stephen,Russell,1988-12-16,Male,White,False,2011-08-31 11:01:19.452190,Logistics,Warehouse Worker,Upington,Permanent,6090,41.0
+107,Christopher,Spears,2000-09-01,Male,Black African,False,2023-06-26 11:01:19.452190,Maintenance,Maintenance Worker,Citrusdal,Contract,4196,28.0
+108,William,Cochran,2001-06-22,Male,White,True,2009-07-01 11:01:19.452190,Logistics,Driver,Ceres,Permanent,7002,17.0
+109,Alexander,Doyle,1975-02-10,Male,Black African,False,2024-10-12 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,4023,37.0
+110,Tara,Pham,2000-08-22,Female,Black African,False,2023-01-17 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Contract,4993,21.0
+111,Rita,Adams,1996-12-17,Female,Black African,False,2024-01-29 11:01:19.452190,Logistics,Forklift Operator,Citrusdal Pack House,Permanent,7376,2.0
+112,Ashley,Brennan,2000-05-18,Female,Black African,False,2014-11-06 11:01:19.452190,Administration,HR Assistant,Graaff-Reinet,Permanent,6279,35.0
+113,Courtney,Velasquez,1981-04-06,Female,Black African,False,2025-01-03 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,4127,4.0
+114,Eric,Pope,1970-02-03,Male,Black African,False,2021-10-25 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Permanent,9639,10.0
+115,Allison,Lee,1974-12-04,Female,Black African,False,2025-01-24 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4128,89.0
+116,Sean,Rasmussen,1972-07-25,Male,Black African,False,2023-08-08 11:01:19.452190,Maintenance,Electrician,Upington,Permanent,4455,3.0
+117,Martin,Ross,2006-04-06,Male,Black African,False,2019-03-17 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Permanent,17370,34.0
+118,Kimberly,Crosby,1968-04-27,Female,Black African,True,2024-10-08 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,3795,13.0
+119,Wesley,White,2005-05-15,Male,Black African,False,2021-03-16 11:01:19.452190,Maintenance,Mechanic,Citrusdal Pack House,Contract,5552,2.0
+120,Deborah,Rodriguez,1980-01-10,Female,Black African,False,2024-10-30 11:01:19.452190,Administration,Data Entry Clerk,Dullstroom,Seasonal,3647,12.0
+121,Nicholas,Edwards,1985-12-29,Male,Black African,False,2013-03-14 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Permanent,13026,41.0
+122,Kayla,Cruz,1986-11-04,Female,Black African,False,2024-12-25 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,3908,23.0
+123,Dawn,Fletcher,1964-03-25,Female,Black African,False,2014-07-06 11:01:19.452190,Maintenance,Maintenance Supervisor,Upington,Permanent,11663,3.0
+124,Tammy,Ryan,1993-09-13,Female,Black African,False,2024-09-22 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,3817,35.0
+125,Patrick,Lambert,1976-08-25,Male,White,False,2024-10-09 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Seasonal,4443,40.0
+126,Benjamin,Beck,1976-01-21,Male,Black African,False,2024-12-04 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Seasonal,3328,35.0
+127,Erik,Charles,1993-09-18,Male,Black African,False,2016-05-22 11:01:19.452190,Maintenance,Equipment Technician,Ceres Pack House,Permanent,12521,34.0
+128,Eric,Parker,1978-11-14,Male,Black African,False,2024-11-05 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,4005,38.0
+129,James,Phillips,1965-04-11,Male,White,False,2022-07-29 11:01:19.452190,Administration,Payroll Officer,Citrusdal Pack House,Permanent,5364,11.0
+130,Jason,Bentley,1991-09-05,Male,Coloured,False,2024-10-18 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,4240,33.0
+131,Steven,Gilbert,1973-08-12,Male,Black African,False,2024-10-10 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,4487,42.0
+132,Kimberly,Smith,1974-07-01,Female,Black African,False,2012-10-03 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Permanent,17873,24.0
+133,Jeffrey,Carpenter,1990-08-05,Male,Black African,False,2025-02-14 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4543,20.0
+134,John,Ramos,1969-06-04,Male,Black African,False,2024-10-11 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3363,22.0
+135,Kara,Santana,1997-05-17,Female,Black African,False,2015-05-20 11:01:19.452190,Logistics,Forklift Operator,Ceres Pack House,Permanent,8583,5.0
+136,Carolyn,Miller,1983-11-28,Female,Black African,False,2024-12-15 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4393,23.0
+137,Mark,Rogers,1998-06-14,Male,Black African,False,2025-01-08 11:01:19.452190,Cattle Farming,Milking Technician,Dullstroom,Seasonal,3154,44.0
+138,Paul,Chambers,1969-12-13,Male,Indian/Asian,False,2022-02-26 11:01:19.452190,Administration,Admin Clerk,Ceres Pack House,Contract,5597,30.0
+139,Christina,Johnson,1970-12-02,Female,Black African,False,2024-10-21 11:01:19.452190,Citrus Production,Farm Worker,Ceres,Seasonal,4575,17.0
+140,Karen,Atkinson,1962-08-30,Female,White,False,2019-04-08 11:01:19.452190,Logistics,Driver,Citrusdal Pack House,Permanent,7356,11.0
+141,Jason,Soto,1968-07-01,Male,Black African,True,2024-12-13 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,3996,48.0
+142,Melissa,Snyder,1972-12-14,Female,Black African,False,2012-04-22 11:01:19.452190,Citrus Production,Farm Supervisor,Ceres,Permanent,10519,45.0
+143,Matthew,Smith,1995-03-19,Male,Black African,False,2025-01-07 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Seasonal,4993,9.0
+144,Randy,Rodriguez,1979-07-29,Male,White,False,2025-01-16 11:01:19.452190,Maintenance,Maintenance Worker,Citrusdal,Permanent,4012,8.0
+145,Christopher,Rubio,1984-01-11,Male,Coloured,False,2017-12-15 11:01:19.452190,Logistics,Dispatcher,Ceres Pack House,Permanent,5606,5.0
+146,Amber,Wright,1999-11-21,Female,Black African,False,2025-01-13 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres,Seasonal,3363,45.0
+147,Jesus,Solis,1991-03-18,Male,Black African,False,2020-11-08 11:01:19.452190,Logistics,Forklift Operator,Graaff-Reinet,Permanent,6973,47.0
+148,William,Larson,2004-10-08,Male,Black African,False,2024-10-13 11:01:19.452190,Administration,Data Entry Clerk,Dullstroom,Contract,4134,12.0
+149,Steven,Salazar,1990-01-23,Male,Black African,False,2025-01-15 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,3476,5.0
+150,Kathy,Rivas,1985-06-19,Female,Black African,False,2024-11-15 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,3812,32.0
+151,Steven,Manning,1981-04-04,Male,Black African,False,2024-10-17 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4166,13.0
+152,Deanna,Wright,1989-10-10,Female,Black African,False,2025-01-06 11:01:19.452190,Citrus Production,Harvester,Ceres,Seasonal,3068,40.0
+153,Pamela,Boyd,1989-04-02,Female,Black African,False,2024-12-31 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,4949,34.0
+154,Denise,Jones,1972-11-18,Female,Coloured,False,2025-01-13 11:01:19.452190,Logistics,Dispatcher,Ceres Pack House,Permanent,4563,7.0
+155,Devon,Flores,1983-08-13,Male,Black African,False,2024-11-23 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres,Seasonal,4290,48.0
+156,Brenda,Hall,1989-02-24,Female,Black African,False,2023-12-31 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Contract,13758,36.0
+157,Michael,Brown,1978-09-25,Male,Black African,False,2024-10-15 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,4440,45.0
+158,Joshua,Perry,1969-02-04,Male,Black African,False,2017-05-31 11:01:19.452190,Administration,Admin Clerk,Citrusdal,Permanent,4993,89.0
+159,Jason,Stein,1987-03-16,Male,Black African,False,2024-11-20 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Seasonal,4037,10.0
+160,Michael,Gates,1995-12-01,Male,Coloured,False,2014-07-10 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Permanent,6766,27.0
+161,James,Smith,1976-01-20,Male,Black African,False,2019-02-19 11:01:19.452190,Grape Production,Pruner,Upington,Permanent,5534,49.0
+162,Paul,Castaneda,2004-12-06,Male,Black African,False,2024-09-13 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Contract,3905,14.0
+163,Jason,Adkins,1985-05-19,Male,Black African,False,2013-12-15 11:01:19.452190,Administration,Data Entry Clerk,Ceres Pack House,Permanent,6091,38.0
+164,Lindsey,Walker,1969-09-12,Female,Black African,False,2019-12-14 11:01:19.452190,Citrus Production,Farm Worker,Ceres,Permanent,5345,37.0
+165,Jeffrey,Johnson,1976-04-08,Male,Black African,False,2024-11-24 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,3721,8.0
+166,Michael,Powell,1967-02-02,Male,Black African,False,2015-05-31 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Permanent,7216,36.0
+167,John,Anderson,1989-01-13,Male,Black African,False,2024-10-26 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4975,31.0
+168,Alexander,Long,1986-04-04,Male,Black African,False,2024-05-23 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Contract,5327,12.0
+169,Alexander,Day,1965-09-06,Male,White,False,2021-10-13 11:01:19.452190,Administration,Data Entry Clerk,Dullstroom,Contract,5611,10.0
+170,Julia,Williams,1977-05-13,Female,Black African,False,2025-02-05 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,3241,2.0
+171,Christine,Murphy,1991-07-29,Female,Coloured,False,2024-10-05 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4076,42.0
+172,Jamie,Walton,1994-02-12,Female,Black African,False,2012-07-13 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Permanent,10622,10.0
+173,David,Miller,1960-02-05,Male,White,False,2024-02-11 11:01:19.452190,Administration,Data Entry Clerk,Graaff-Reinet,Contract,5496,47.0
+174,Joshua,Cooke,1975-12-19,Male,Black African,False,2009-11-03 11:01:19.452190,Maintenance,Mechanic,Citrusdal,Permanent,6589,50.0
+175,Matthew,Harrington,1990-06-14,Male,Black African,False,2022-10-26 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres,Permanent,15291,48.0
+176,Paul,Herring,1968-09-26,Male,Black African,False,2019-07-30 11:01:19.452190,Maintenance,Electrician,Citrusdal,Permanent,4145,8.0
+177,Alex,Hernandez,1965-03-23,Male,Black African,False,2023-04-12 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Contract,5891,23.0
+178,Maureen,Elliott,1972-01-07,Female,Black African,False,2024-12-31 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Seasonal,3129,33.0
+179,Michael,Wang,1967-03-22,Male,Black African,False,2025-02-10 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,3353,39.0
+180,Lawrence,Adkins,1964-08-30,Male,Indian/Asian,False,2009-10-10 11:01:19.452190,Administration,Data Entry Clerk,Dullstroom,Permanent,7422,12.0
+181,Sabrina,Oconnell,1964-05-10,Female,Black African,False,2024-11-13 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,3307,37.0
+182,Allison,Collins,1991-09-06,Female,Black African,False,2010-01-14 11:01:19.452190,Administration,Admin Clerk,Citrusdal,Permanent,4847,89.0
+183,Tina,Sanders,1989-11-28,Female,Indian/Asian,False,2013-11-24 11:01:19.452190,Logistics,Logistics Supervisor,Graaff-Reinet,Permanent,18245,18.0
+184,Billy,Vaughn,1989-04-10,Male,Black African,False,2023-03-21 11:01:19.452190,Logistics,Dispatcher,Ceres,Permanent,4564,37.0
+185,Brian,Barton,1994-10-12,Male,Black African,False,2025-02-13 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Seasonal,3152,6.0
+186,Lindsay,Martinez,1999-08-03,Female,Black African,False,2015-07-22 11:01:19.452190,Logistics,Logistics Supervisor,Citrusdal,Permanent,16046,50.0
+187,Rachel,Reed,1979-08-04,Female,Black African,False,2025-01-24 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,3314,89.0
+188,Jacqueline,Hunter,1976-06-14,Female,Black African,False,2022-05-17 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Permanent,14065,31.0
+189,Sarah,Short,1967-12-20,Female,Black African,False,2024-09-29 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,4639,26.0
+190,Tonya,Reid,1998-12-11,Female,Black African,False,2024-12-26 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,3012,23.0
+191,Michael,Graham,1994-05-22,Male,Black African,False,2024-10-18 11:01:19.452190,Citrus Production,Farm Worker,Ceres,Seasonal,3018,45.0
+192,Tracie,Nelson,1997-12-17,Female,Black African,False,2024-10-07 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,4265,29.0
+193,Joshua,Webb,1980-01-28,Male,Black African,False,2016-09-25 11:01:19.452190,Logistics,Warehouse Worker,Upington,Permanent,6535,46.0
+194,Monique,Adams,2000-01-19,Female,Black African,False,2024-10-17 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,4743,14.0
+195,Ronald,Miller,1995-11-28,Male,Black African,False,2025-02-20 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,3647,49.0
+196,David,Marshall,1988-06-18,Male,Indian/Asian,False,2024-10-25 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3852,35.0
+197,James,Johnson,1994-10-21,Male,Coloured,False,2024-12-21 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4545,13.0
+198,Christopher,Lewis,1992-11-21,Male,Black African,False,2025-02-17 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4819,35.0
+199,Gina,Beard,1989-05-30,Female,Black African,False,2024-12-20 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,4788,5.0
+200,Desiree,Smith,2004-09-03,Female,Black African,False,2024-09-11 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Permanent,6629,40.0
+201,Bradley,Cortez,1981-10-04,Male,Black African,False,2019-03-17 11:01:19.452190,Logistics,Logistics Supervisor,Ceres,Permanent,13469,37.0
+202,Olivia,Vaughn,1987-06-03,Female,Black African,False,2024-12-27 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,3924,46.0
+203,John,Mcguire,1963-08-20,Male,Black African,False,2022-03-31 11:01:19.452190,Administration,Office Manager,Ceres,Permanent,30543,48.0
+204,Daniel,Holt,1975-03-12,Male,Black African,False,2025-02-12 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Seasonal,4360,15.0
+205,Lauren,Kennedy,1983-04-14,Female,Indian/Asian,False,2024-10-24 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4815,11.0
+206,Jessica,Reese,1975-01-17,Female,Black African,False,2024-10-09 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Seasonal,3997,48.0
+207,Michael,Nelson,1971-03-27,Male,Black African,False,2018-01-22 11:01:19.452190,Pack House Operations,Packer,Ceres,Permanent,4500,45.0
+208,Bryan,Lee,1964-11-27,Male,Black African,False,2017-08-19 11:01:19.452190,Logistics,Forklift Operator,Citrusdal,Permanent,8110,15.0
+209,Joshua,Gill,1968-01-21,Male,Black African,False,2025-01-17 11:01:19.452190,Administration,Office Manager,Dullstroom,Seasonal,4412,44.0
+210,Cindy,Washington,1993-12-12,Female,Indian/Asian,False,2024-11-17 11:01:19.452190,Citrus Production,Harvester,Ceres,Seasonal,4250,40.0
+211,Vanessa,Warren,1972-10-01,Female,Black African,False,2016-02-14 11:01:19.452190,Administration,HR Assistant,Graaff-Reinet,Permanent,7039,22.0
+212,Ashlee,Lee,1970-02-01,Female,Black African,True,2024-11-24 11:01:19.452190,Pack House Operations,Machine Operator,Citrusdal Pack House,Seasonal,3120,13.0
+213,Christopher,Smith,1984-10-21,Male,Black African,False,2013-11-03 11:01:19.452190,Administration,Payroll Officer,Citrusdal,Permanent,6968,31.0
+214,Denise,Mccann,1985-09-23,Female,Black African,False,2025-02-18 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,4084,27.0
+215,Michael,Martinez,2000-11-07,Male,Black African,False,2024-12-02 11:01:19.452190,Administration,HR Assistant,Dullstroom,Seasonal,3407,209.0
+216,Katherine,Salas,1986-09-21,Female,Black African,False,2024-09-27 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,3691,14.0
+217,Julie,Alexander,1970-10-22,Female,Black African,False,2024-09-22 11:01:19.452190,Cattle Farming,Animal Care Specialist,Dullstroom,Seasonal,4450,24.0
+218,Amber,Everett,1982-02-05,Female,Black African,False,2025-02-13 11:01:19.452190,Maintenance,Electrician,Dullstroom,Seasonal,3718,12.0
+219,Samantha,Morales,1966-11-02,Female,Black African,False,2024-12-10 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,4203,15.0
+220,Mark,Brown,1969-07-16,Male,Black African,False,2012-10-13 11:01:19.452190,Maintenance,Maintenance Supervisor,Citrusdal,Permanent,14085,50.0
+221,Justin,Torres,2006-11-16,Male,Black African,False,2024-09-24 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,4715,41.0
+222,Bailey,Duran,1988-04-08,Female,Black African,False,2013-05-31 11:01:19.452190,Logistics,Warehouse Worker,Upington,Permanent,5317,20.0
+223,Rachel,Perez,1984-04-01,Female,Black African,False,2025-02-23 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Seasonal,3898,12.0
+224,Jerry,Ramos,2000-06-15,Male,Black African,False,2024-04-17 11:01:19.452190,Administration,Office Manager,Ceres,Contract,32603,45.0
+225,William,Torres,1986-07-11,Male,Black African,False,2024-09-17 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4973,3.0
+226,Leonard,Singh,2004-08-26,Male,Black African,False,2024-11-25 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,4867,41.0
+227,Daniel,Clark,1990-11-13,Male,Indian/Asian,False,2018-01-19 11:01:19.452190,Maintenance,Equipment Technician,Graaff-Reinet,Permanent,14266,27.0
+228,Brooke,Thompson,1966-11-15,Female,Black African,False,2020-01-18 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres,Permanent,13350,17.0
+229,Aaron,Hayes,1985-07-19,Male,White,False,2015-09-15 11:01:19.452190,Logistics,Logistics Supervisor,Ceres Pack House,Permanent,16675,34.0
+230,Doris,Hall,1989-08-14,Female,Black African,False,2023-01-16 11:01:19.452190,Logistics,Logistics Supervisor,Ceres,Contract,12631,203.0
+231,Michael,Gibson,1992-02-29,Male,Coloured,False,2023-12-28 11:01:19.452190,Maintenance,Electrician,Dullstroom,Contract,5661,6.0
+232,Tammy,French,1989-03-03,Female,Indian/Asian,False,2020-05-02 11:01:19.452190,Administration,Admin Clerk,Ceres,Permanent,6235,224.0
+233,Matthew,Peck,1979-07-29,Male,Black African,False,2024-09-07 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Seasonal,3636,6.0
+234,Kimberly,Holland,1996-11-14,Female,Black African,False,2025-01-26 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Seasonal,4757,28.0
+235,Samantha,Jones,1967-02-17,Female,Coloured,False,2013-08-17 11:01:19.452190,Administration,Payroll Officer,Ceres Pack House,Permanent,5965,4.0
+236,Eric,Curry,1986-06-28,Male,Black African,False,2024-09-26 11:01:19.452190,Administration,Admin Clerk,Ceres Pack House,Permanent,5024,29.0
+237,Dylan,Martinez,1992-03-22,Male,Black African,False,2010-08-13 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Permanent,5288,19.0
+238,Michael,Bender,1983-03-11,Male,Black African,False,2012-07-15 11:01:19.452190,Maintenance,Electrician,Ceres Pack House,Permanent,7355,5.0
+239,Johnny,Miller,1961-01-29,Male,Black African,False,2024-09-13 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4053,21.0
+240,Jessica,Morris,1971-03-09,Female,Black African,True,2025-02-02 11:01:19.452190,Pack House Operations,Machine Operator,Citrusdal Pack House,Seasonal,3391,23.0
+241,Anna,Hayden,1999-04-18,Female,Black African,False,2025-02-07 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Seasonal,3202,45.0
+242,Laura,Sampson,2000-02-26,Female,Black African,False,2024-12-08 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Seasonal,3622,21.0
+243,Michael,Adams,1965-08-14,Male,Black African,False,2024-12-23 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Seasonal,3362,209.0
+244,Nicole,Ruiz,1990-06-10,Female,Black African,False,2025-01-26 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Seasonal,4925,13.0
+245,Thomas,White,1987-04-06,Male,Black African,False,2014-09-24 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Permanent,10210,32.0
+246,Madison,Vasquez,1963-07-19,Female,Black African,False,2024-10-19 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3349,89.0
+247,Hannah,Cook,1991-05-02,Female,Black African,False,2024-10-22 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,4645,40.0
+248,Shannon,Rivera,1992-06-18,Female,Black African,False,2024-12-10 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,4173,203.0
+249,Dwayne,Landry,1998-03-21,Male,Black African,False,2011-02-05 11:01:19.452190,Maintenance,Mechanic,Upington,Permanent,4626,49.0
+250,Joshua,Gibson,1974-04-07,Male,Black African,False,2015-03-24 11:01:19.452190,Logistics,Dispatcher,Citrusdal Pack House,Permanent,6332,43.0
+251,Erica,Cordova,1978-07-26,Female,Black African,False,2018-09-21 11:01:19.452190,Administration,Data Entry Clerk,Graaff-Reinet,Permanent,5445,18.0
+252,Jose,Travis,1990-09-26,Male,Black African,False,2024-09-12 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,4156,23.0
+253,Joshua,Gutierrez,1968-03-03,Male,Black African,False,2013-05-27 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Permanent,7383,89.0
+254,Isaiah,Avila,1989-03-09,Male,Coloured,False,2025-02-05 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3467,26.0
+255,Peter,Harris,1985-07-12,Male,Black African,False,2013-01-04 11:01:19.452190,Administration,Office Manager,Dullstroom,Permanent,42547,209.0
+256,Tanya,Kim,1992-09-06,Female,Black African,False,2017-01-17 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Permanent,4526,39.0
+257,Bryan,Dudley,1988-05-23,Male,Black African,False,2021-11-25 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Contract,4556,31.0
+258,David,Moore,1983-12-31,Male,Indian/Asian,False,2024-11-30 11:01:19.452190,Citrus Production,Farm Supervisor,Ceres,Seasonal,3040,40.0
+259,Kristen,Davis,2006-10-18,Female,Black African,False,2021-05-04 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Contract,4142,49.0
+260,Susan,Murray,1964-10-21,Female,Black African,False,2024-12-22 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3606,15.0
+261,Sandra,Jimenez,1993-07-25,Female,Black African,False,2024-10-23 11:01:19.452190,Logistics,Forklift Operator,Ceres,Permanent,5916,40.0
+262,Katrina,Hill,1999-03-27,Female,Black African,False,2019-08-19 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Permanent,5652,24.0
+263,William,Sanchez,1985-08-17,Male,Black African,False,2013-01-06 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Permanent,6741,2.0
+264,James,Weeks,1983-07-25,Male,Black African,False,2024-09-15 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,3347,5.0
+265,Sherry,Shields,1972-06-05,Female,Coloured,False,2020-04-10 11:01:19.452190,Logistics,Forklift Operator,Ceres Pack House,Permanent,6045,30.0
+266,Rachel,Perry,2004-01-05,Female,Coloured,False,2011-01-25 11:01:19.452190,Maintenance,Mechanic,Citrusdal Pack House,Permanent,5118,11.0
+267,Jordan,Hoover,1974-05-09,Male,Black African,False,2022-10-03 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Contract,8180,38.0
+268,Elizabeth,Matthews,2007-02-11,Female,Black African,False,2017-10-18 11:01:19.452190,Logistics,Warehouse Worker,Citrusdal,Permanent,5178,21.0
+269,Katherine,Hernandez,1985-01-07,Female,Black African,False,2024-11-13 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,3304,20.0
+270,Gregory,Arnold,1985-04-02,Male,Indian/Asian,False,2024-12-11 11:01:19.452190,Maintenance,Mechanic,Dullstroom,Seasonal,3115,255.0
+271,Jesse,Morris,1968-03-22,Male,Black African,False,2024-01-26 11:01:19.452190,Administration,Admin Clerk,Citrusdal Pack House,Permanent,4385,11.0
+272,Melissa,Armstrong,1972-07-30,Female,Black African,False,2019-06-19 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Permanent,11072,25.0
+273,Patricia,Williams,1994-11-30,Female,Black African,False,2020-01-29 11:01:19.452190,Logistics,Warehouse Worker,Upington,Permanent,6301,49.0
+274,Michael,Shepherd,1977-09-12,Male,Black African,False,2025-02-13 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3774,26.0
+275,Matthew,Hoover,2006-03-31,Male,Coloured,False,2013-08-02 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Permanent,6441,209.0
+276,Jon,Johnson,1983-04-12,Male,Coloured,False,2023-01-05 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Permanent,5377,23.0
+277,Kevin,Kane,2001-02-16,Male,Black African,False,2025-01-27 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3908,21.0
+278,Jessica,Fox,1981-02-05,Female,Black African,False,2024-05-19 11:01:19.452190,Maintenance,Equipment Technician,Citrusdal,Permanent,9910,19.0
+279,Miranda,Ortiz,1990-08-06,Female,White,False,2019-01-19 11:01:19.452190,Grape Production,Harvester,Upington,Permanent,6948,3.0
+280,Christopher,Harrison,2005-09-09,Male,Black African,True,2024-10-31 11:01:19.452190,Citrus Production,Harvester,Ceres,Seasonal,4681,17.0
+281,George,Schwartz,1990-05-11,Male,Black African,False,2016-06-02 11:01:19.452190,Logistics,Dispatcher,Citrusdal,Permanent,5735,8.0
+282,Samuel,Phelps,2000-05-31,Male,Indian/Asian,True,2025-02-17 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,3886,41.0
+283,James,Stewart,1993-08-31,Male,Black African,False,2020-10-17 11:01:19.452190,Administration,Admin Clerk,Citrusdal Pack House,Permanent,3953,23.0
+284,Peter,Brennan,1960-11-21,Male,Coloured,False,2025-01-12 11:01:19.452190,Administration,Office Manager,Dullstroom,Seasonal,4322,24.0
+285,Andrea,Welch,1997-04-28,Female,Coloured,False,2019-08-17 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Permanent,11333,44.0
+286,Yolanda,Francis,1979-12-31,Female,Black African,False,2023-03-17 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Permanent,3631,25.0
+287,Annette,Schultz,2001-01-19,Female,Black African,False,2024-10-06 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,4791,39.0
+288,Jill,Benson,2002-07-13,Female,Black African,False,2024-11-01 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4623,25.0
+289,Amber,Flynn,1973-04-01,Female,Black African,False,2024-05-30 11:01:19.452190,Administration,Admin Clerk,Dullstroom,Permanent,4430,284.0
+290,James,Thomas,1984-08-30,Male,Black African,False,2013-07-17 11:01:19.452190,Maintenance,Equipment Technician,Upington,Permanent,14718,41.0
+291,Keith,Sparks,1967-04-30,Male,Black African,False,2023-05-22 11:01:19.452190,Administration,Admin Clerk,Ceres Pack House,Permanent,5242,29.0
+292,Bob,Pitts,1988-11-29,Male,Black African,False,2024-07-20 11:01:19.452190,Logistics,Warehouse Worker,Ceres Pack House,Contract,5382,38.0
+293,David,Durham,1966-01-14,Male,Black African,False,2021-10-03 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Contract,3729,15.0
+294,Julia,King,1971-06-04,Female,Black African,False,2021-02-03 11:01:19.452190,Administration,Office Manager,Graaff-Reinet,Permanent,34706,27.0
+295,Adam,Ballard,2002-06-05,Male,Black African,False,2016-05-23 11:01:19.452190,Administration,Data Entry Clerk,Graaff-Reinet,Permanent,7059,35.0
+296,Megan,Moore,1980-05-15,Female,White,False,2009-12-14 11:01:19.452190,Maintenance,Mechanic,Dullstroom,Permanent,5453,12.0
+297,Gregory,Matthews,1989-11-01,Male,Black African,False,2025-02-10 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,4630,10.0
+298,Jeff,Wright,1999-09-28,Male,Coloured,False,2016-09-18 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Permanent,9324,8.0
+299,Curtis,Cruz,1981-07-25,Male,Black African,False,2020-11-17 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres,Permanent,10127,203.0
+300,David,Armstrong,1986-10-04,Male,Black African,False,2024-12-05 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,4444,294.0
+301,Willie,Phillips,1999-05-17,Male,Black African,False,2010-02-09 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Permanent,10664,24.0
+302,Mary,Hill,1986-05-01,Female,Black African,False,2024-02-21 11:01:19.452190,Logistics,Driver,Citrusdal,Permanent,7134,50.0
+303,Melissa,Garner,1961-07-09,Female,Black African,False,2009-09-10 11:01:19.452190,Administration,Office Manager,Dullstroom,Permanent,42746,10.0
+304,Lisa,Crawford,2002-07-26,Female,Black African,False,2024-12-10 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,4390,25.0
+305,Dustin,Lindsey,1988-04-22,Male,Black African,False,2025-02-22 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,3294,32.0
+306,Harold,Fields,1988-12-20,Male,Coloured,False,2024-12-28 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Seasonal,4533,9.0
+307,Megan,Le,1990-10-22,Female,Black African,False,2023-02-14 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Contract,3945,28.0
+308,Sara,Fuller,2002-07-13,Female,Black African,False,2024-08-01 11:01:19.452190,Administration,Admin Clerk,Upington,Contract,4913,16.0
+309,Maria,Parker,1980-04-29,Female,Black African,False,2017-11-09 11:01:19.452190,Administration,Admin Clerk,Citrusdal,Permanent,6345,19.0
+310,Lauren,Oconnor,1963-06-30,Female,Coloured,False,2025-02-04 11:01:19.452190,Administration,Payroll Officer,Dullstroom,Contract,3965,6.0
+311,Edward,Burgess,1967-08-07,Male,White,False,2024-09-22 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,4818,50.0
+312,Carlos,Ryan,2005-10-19,Male,Black African,False,2024-10-25 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,3797,14.0
+313,Joseph,Mcintyre,1994-01-24,Male,Black African,False,2025-01-30 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,3551,49.0
+314,Dawn,Summers,1982-04-18,Female,Black African,False,2022-06-27 11:01:19.452190,Maintenance,Electrician,Dullstroom,Contract,3890,24.0
+315,Renee,Francis,1975-06-05,Female,Black African,False,2016-04-19 11:01:19.452190,Maintenance,Electrician,Upington,Permanent,5317,20.0
+316,Ashley,Mccarty,1965-12-03,Female,Black African,False,2024-09-12 11:01:19.452190,Administration,Payroll Officer,Citrusdal Pack House,Permanent,3819,23.0
+317,Vincent,Dalton,1993-12-05,Male,Indian/Asian,False,2016-03-11 11:01:19.452190,Logistics,Driver,Upington,Permanent,6739,49.0
+318,Veronica,Coffey,1997-10-15,Female,Black African,False,2018-02-03 11:01:19.452190,Maintenance,Maintenance Worker,Ceres,Permanent,5292,9.0
+319,Jacob,Gibbs,1959-11-02,Male,Black African,False,2024-08-09 11:01:19.452190,Logistics,Forklift Operator,Citrusdal,Permanent,6635,50.0
+320,Joshua,Gibson,1991-06-19,Male,Black African,False,2020-03-19 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Permanent,5441,44.0
+321,Michael,Richards,1998-08-23,Male,Indian/Asian,False,2011-10-25 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Permanent,7312,10.0
+322,Todd,Rodriguez,1972-08-02,Male,Black African,False,2021-11-14 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Permanent,14872,22.0
+323,Alexander,Henson,1986-02-11,Male,Black African,False,2024-09-12 11:01:19.452190,Administration,Admin Clerk,Graaff-Reinet,Contract,3911,47.0
+324,Suzanne,Walker,1966-06-12,Female,Black African,False,2024-11-23 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,3902,16.0
+325,Rodney,Blankenship,1973-09-02,Male,Black African,False,2024-10-01 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,3564,17.0
+326,Jason,Taylor,2004-08-02,Male,Black African,False,2025-01-13 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,3882,34.0
+327,Elizabeth,Vasquez,1963-10-31,Female,Black African,False,2021-05-06 11:01:19.452190,Logistics,Driver,Upington,Permanent,8059,49.0
+328,Stephen,Taylor,1980-12-10,Male,Black African,False,2009-08-12 11:01:19.452190,Logistics,Forklift Operator,Ceres Pack House,Permanent,9593,32.0
+329,Michael,Paul,2004-07-28,Male,Black African,False,2024-09-24 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4196,31.0
+330,Jennifer,Newton,1966-08-02,Female,Black African,False,2013-06-23 11:01:19.452190,Logistics,Warehouse Worker,Citrusdal,Permanent,7145,28.0
+331,Jason,Garcia,1982-08-28,Male,Indian/Asian,False,2024-09-23 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,4335,45.0
+332,Jason,Lynn,1960-09-26,Male,Black African,False,2021-06-11 11:01:19.452190,Maintenance,Electrician,Upington,Permanent,3849,3.0
+333,Jacqueline,Ramos,1998-05-22,Female,Black African,False,2018-04-19 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Permanent,15482,41.0
+334,Scott,Garcia,1992-01-30,Male,Black African,False,2016-02-25 11:01:19.452190,Administration,Payroll Officer,Ceres,Permanent,7582,17.0
+335,Joshua,Levine,1976-05-20,Male,Coloured,False,2024-10-04 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4759,46.0
+336,James,Lopez,1965-01-11,Male,Black African,False,2012-08-12 11:01:19.452190,Logistics,Forklift Operator,Citrusdal,Permanent,7053,89.0
+337,Sarah,Gibson,1990-12-24,Female,Black African,False,2024-10-22 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,3704,36.0
+338,Martin,Harper,1960-03-11,Male,Black African,True,2024-11-01 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,3212,7.0
+339,Richard,Sanchez,1968-09-13,Male,Coloured,False,2024-10-17 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,3558,49.0
+340,Justin,Jones,1991-09-19,Male,Black African,False,2020-02-15 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Permanent,14457,24.0
+341,Daniel,Robinson,2000-11-29,Male,White,False,2025-01-27 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4301,43.0
+342,Gary,Hernandez,2002-05-24,Male,Black African,False,2024-09-05 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,4729,43.0
+343,Aaron,Garrison,1966-02-10,Male,Black African,False,2014-04-18 11:01:19.452190,Administration,HR Assistant,Ceres Pack House,Permanent,6954,39.0
+344,Carlos,King,1967-07-18,Male,White,False,2024-08-11 11:01:19.452190,Logistics,Driver,Ceres Pack House,Contract,7261,38.0
+345,Mary,Johnson,1964-09-14,Female,Black African,False,2025-01-01 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,4270,21.0
+346,Richard,Young,1975-10-29,Male,Black African,False,2023-05-03 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Permanent,8572,4.0
+347,Christopher,Williams,1994-10-08,Male,Black African,False,2024-10-08 11:01:19.452190,Citrus Production,Farm Worker,Ceres,Seasonal,3096,40.0
+348,Kelly,Reese,1981-04-25,Female,White,False,2024-10-04 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Seasonal,3370,209.0
+349,Richard,Palmer,1964-05-26,Male,Black African,False,2024-12-24 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,4578,29.0
+350,Kathy,Dougherty,1965-09-24,Female,Black African,False,2024-09-09 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Seasonal,3187,89.0
+351,Richard,Camacho,1984-03-13,Male,Black African,False,2024-09-05 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,3164,48.0
+352,Judith,Maynard,1962-02-01,Female,Black African,False,2025-01-07 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4214,11.0
+353,John,Morales,1992-02-06,Male,Black African,False,2024-11-09 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Seasonal,3975,48.0
+354,John,Browning,1962-09-11,Male,Black African,False,2016-03-16 11:01:19.452190,Administration,Admin Clerk,Dullstroom,Permanent,4559,284.0
+355,Angela,Franklin,1962-04-27,Female,Black African,False,2021-11-18 11:01:19.452190,Logistics,Forklift Operator,Citrusdal,Permanent,6985,89.0
+356,Donald,Schultz,1985-06-27,Male,Black African,False,2017-10-27 11:01:19.452190,Maintenance,Maintenance Worker,Ceres,Permanent,6022,45.0
+357,Erika,Vang,1984-08-19,Female,Coloured,False,2021-03-01 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Permanent,13114,32.0
+358,Jesse,Jacobs,1963-12-05,Male,Black African,True,2025-01-25 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,4633,9.0
+359,Michael,Farrell,1990-05-30,Male,Black African,False,2025-02-03 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3089,8.0
+360,Patricia,Le,1971-11-29,Female,Black African,False,2021-09-11 11:01:19.452190,Logistics,Logistics Supervisor,Graaff-Reinet,Permanent,11080,35.0
+361,Jocelyn,Perez,1975-06-09,Female,Black African,False,2024-09-19 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,3515,49.0
+362,Jesse,Perry,1963-09-25,Male,Black African,False,2023-10-07 11:01:19.452190,Maintenance,Electrician,Upington,Permanent,4779,16.0
+363,Jessica,Ortega,1977-02-18,Female,Black African,False,2018-04-03 11:01:19.452190,Logistics,Warehouse Worker,Citrusdal Pack House,Permanent,5077,1.0
+364,Brittany,Leblanc,1962-05-22,Female,White,False,2024-11-03 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Contract,4996,43.0
+365,Ronald,Davis,1963-10-20,Male,Black African,False,2024-10-29 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,4275,29.0
+366,Parker,Cain,1985-11-15,Male,Black African,False,2021-08-08 11:01:19.452190,Administration,Payroll Officer,Ceres Pack House,Contract,4237,4.0
+367,Kevin,Hoffman,1976-01-14,Male,Black African,False,2013-10-28 11:01:19.452190,Maintenance,Maintenance Supervisor,Citrusdal Pack House,Permanent,13522,1.0
+368,Bryan,Gomez,1991-02-07,Male,Black African,False,2018-11-06 11:01:19.452190,Maintenance,Maintenance Worker,Citrusdal,Permanent,4942,26.0
+369,Paul,Parrish,1993-10-11,Male,Black African,False,2024-10-14 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,4158,38.0
+370,Tracy,Burke,1976-01-18,Female,Black African,False,2024-09-09 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Seasonal,4376,47.0
+371,Kenneth,Lewis,1987-10-24,Male,Coloured,False,2024-09-29 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4893,20.0
+372,Danny,Rodriguez,1999-09-30,Male,Black African,False,2020-10-29 11:01:19.452190,Maintenance,Equipment Technician,Upington,Permanent,12040,20.0
+373,Jacob,Farmer,1984-11-01,Male,Coloured,False,2015-12-02 11:01:19.452190,Logistics,Logistics Supervisor,Ceres Pack House,Permanent,15318,30.0
+374,Renee,Bruce,2005-12-11,Female,Black African,False,2024-10-12 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4954,20.0
+375,Robert,Austin,1990-01-06,Male,White,False,2022-03-27 11:01:19.452190,Maintenance,Maintenance Worker,Upington,Contract,4535,20.0
+376,Alexander,Hickman,1994-01-11,Male,White,False,2024-05-14 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Permanent,6696,22.0
+377,Debra,White,1992-11-23,Female,Black African,False,2011-08-24 11:01:19.452190,Administration,Office Manager,Graaff-Reinet,Permanent,25922,27.0
+378,Ellen,Morgan,1959-06-18,Female,Coloured,False,2024-03-29 11:01:19.452190,Grape Production,Viticulturist,Upington,Contract,5950,3.0
+379,Sheila,Knight,1978-08-06,Female,Black African,False,2024-10-16 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Seasonal,3604,12.0
+380,Charles,Schultz,1960-08-21,Male,Coloured,False,2024-02-02 11:01:19.452190,Maintenance,Equipment Technician,Citrusdal,Permanent,9547,8.0
+381,Paul,Lewis,1979-04-27,Male,Black African,False,2025-01-29 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4987,15.0
+382,Glen,Wood,1993-10-21,Male,Black African,False,2024-10-03 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,3078,9.0
+383,Paula,Bradley,1967-03-25,Female,Black African,False,2024-11-24 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,3916,30.0
+384,Anthony,Moore,1988-10-27,Male,Black African,False,2011-05-02 11:01:19.452190,Administration,Office Manager,Graaff-Reinet,Permanent,36749,42.0
+385,Michael,Nelson,1990-12-10,Male,White,False,2014-06-01 11:01:19.452190,Maintenance,Equipment Technician,Graaff-Reinet,Permanent,12392,384.0
+386,John,Ramos,1972-04-12,Male,Black African,False,2024-12-20 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Seasonal,4154,27.0
+387,Nicole,Wilson,1979-10-21,Female,Black African,False,2025-02-06 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Seasonal,4613,27.0
+388,Douglas,Gregory,1982-07-11,Male,Coloured,False,2012-01-22 11:01:19.452190,Administration,Data Entry Clerk,Ceres,Permanent,7452,37.0
+389,Michael,Williams,1978-02-20,Male,Black African,False,2022-11-03 11:01:19.452190,Administration,Data Entry Clerk,Graaff-Reinet,Permanent,6164,22.0
+390,Linda,Smith,1975-01-08,Female,Black African,False,2024-11-06 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,3598,15.0
+391,Christine,Taylor,1971-06-07,Female,Indian/Asian,False,2024-10-17 11:01:19.452190,Logistics,Driver,Graaff-Reinet,Permanent,5601,384.0
+392,Garrett,Smith,1995-01-09,Male,Black African,False,2024-10-12 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Seasonal,3138,23.0
+393,Casey,James,1992-12-10,Female,Black African,False,2024-11-03 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3177,89.0
+394,Jonathan,Whitaker,1997-11-12,Male,Black African,False,2024-09-09 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,4098,5.0
+395,Benjamin,Hensley,1961-03-13,Male,Black African,False,2024-08-23 11:01:19.452190,Administration,Payroll Officer,Graaff-Reinet,Permanent,5486,42.0
+396,Alicia,Morse,1995-03-16,Female,Black African,False,2023-05-02 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Permanent,14465,12.0
+397,Kenneth,Berry,1993-03-22,Male,Black African,False,2024-12-17 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,3452,38.0
+398,Jason,Wilson,1964-12-02,Male,Black African,False,2015-02-21 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Permanent,8758,8.0
+399,Erika,Solis,1988-11-01,Female,Black African,False,2025-01-22 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,4365,5.0
+400,Ronnie,Gillespie,1967-05-05,Male,Coloured,False,2024-12-04 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,3542,49.0
+401,Sarah,Sanchez,1987-06-08,Female,Black African,False,2021-10-15 11:01:19.452190,Maintenance,Electrician,Dullstroom,Permanent,4911,284.0
+402,Kelly,Foster,1974-01-22,Female,Black African,False,2010-01-06 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Permanent,7461,255.0
+403,Gina,Cook,1970-03-22,Female,Coloured,False,2024-12-22 11:01:19.452190,Citrus Production,Farm Supervisor,Ceres,Seasonal,3259,9.0
+404,Kayla,Wilson,1983-08-24,Female,Black African,False,2024-09-06 11:01:19.452190,Grape Production,Harvester,Upington,Seasonal,4819,25.0
+405,Susan,Bailey,1994-01-30,Female,White,False,2025-01-29 11:01:19.452190,Pack House Operations,Packer,Ceres,Seasonal,4688,203.0
+406,Sabrina,Briggs,1972-09-03,Female,Black African,False,2014-01-22 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Permanent,12933,11.0
+407,Charles,Gonzalez,1988-01-31,Male,Black African,False,2022-01-01 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Contract,13806,23.0
+408,Paige,Rios,1967-09-02,Female,Black African,False,2010-10-07 11:01:19.452190,Maintenance,Equipment Technician,Citrusdal,Permanent,8665,19.0
+409,Raymond,Snyder,1995-05-19,Male,Black African,False,2016-07-10 11:01:19.452190,Administration,Admin Clerk,Upington,Permanent,5628,16.0
+410,Olivia,Cole,2003-07-12,Female,Black African,False,2013-06-21 11:01:19.452190,Maintenance,Mechanic,Ceres,Permanent,4666,9.0
+411,Kristy,Reid,1989-02-22,Female,Indian/Asian,False,2015-12-26 11:01:19.452190,Logistics,Forklift Operator,Citrusdal Pack House,Permanent,6548,13.0
+412,Sean,Burton,1966-05-31,Male,Black African,False,2024-11-14 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,4333,4.0
+413,Barry,Ramos,1973-09-14,Male,Black African,False,2016-04-18 11:01:19.452190,Cattle Farming,Milking Technician,Dullstroom,Permanent,9239,44.0
+414,Denise,Brown,1983-07-09,Female,Black African,False,2015-05-02 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Permanent,9154,30.0
+415,Emily,Hayes,1961-11-24,Female,Black African,False,2025-01-11 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,3795,4.0
+416,Ronald,Jones,2000-08-26,Male,Indian/Asian,False,2016-10-03 11:01:19.452190,Logistics,Driver,Upington,Permanent,6667,41.0
+417,Scott,Gilbert,1983-07-04,Male,Black African,False,2022-06-14 11:01:19.452190,Maintenance,Mechanic,Citrusdal Pack House,Permanent,3756,23.0
+418,Julie,Spencer,1997-03-05,Female,Black African,False,2019-06-01 11:01:19.452190,Maintenance,Equipment Technician,Citrusdal Pack House,Permanent,10818,23.0
+419,Steven,Cole,1998-01-14,Male,Coloured,False,2024-12-14 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Seasonal,4212,23.0
+420,Marissa,Morris,1981-12-30,Female,White,False,2010-11-27 11:01:19.452190,Logistics,Dispatcher,Upington,Permanent,6510,41.0
+421,Brittany,Brown,1964-02-19,Female,Indian/Asian,False,2024-11-07 11:01:19.452190,Pack House Operations,Machine Operator,Citrusdal Pack House,Seasonal,4570,13.0
+422,Steven,Cooper,1993-06-15,Male,Black African,False,2025-02-07 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,3391,2.0
+423,Kathy,Thompson,1971-01-22,Female,Black African,True,2024-10-09 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,4622,224.0
+424,Jeffrey,Gonzales,1984-04-04,Male,Black African,False,2022-12-28 11:01:19.452190,Logistics,Dispatcher,Citrusdal Pack House,Contract,5793,43.0
+425,Christopher,Watson,1972-09-29,Male,Black African,False,2024-10-17 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,3015,13.0
+426,Jason,Morgan,1987-11-13,Male,Coloured,False,2024-09-16 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Permanent,4385,39.0
+427,Richard,Holland,1962-05-01,Male,Black African,False,2024-09-17 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4121,28.0
+428,Anna,Gregory,1972-10-21,Female,Black African,False,2024-09-29 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,4989,16.0
+429,Misty,Douglas,1996-10-18,Female,Indian/Asian,False,2024-10-02 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4423,16.0
+430,Shelley,Cook,1987-02-20,Female,Black African,False,2025-02-20 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,3427,16.0
+431,Brenda,Bailey,2005-08-13,Female,Black African,False,2022-08-15 11:01:19.452190,Logistics,Dispatcher,Upington,Contract,5245,20.0
+432,Melissa,Myers,1985-08-04,Female,Coloured,False,2024-10-02 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Seasonal,3619,6.0
+433,Teresa,Collins,1977-03-31,Female,Black African,False,2025-01-06 11:01:19.452190,Pack House Operations,Packer,Ceres,Seasonal,3024,17.0
+434,Rebecca,Li,1991-05-02,Female,Black African,False,2024-11-27 11:01:19.452190,Grape Production,Harvester,Upington,Seasonal,4616,16.0
+435,Ronald,Rodgers,1992-01-25,Male,Black African,False,2024-12-18 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Seasonal,4324,384.0
+436,Kelsey,Lucas,1979-06-29,Female,Black African,False,2024-05-25 11:01:19.452190,Logistics,Dispatcher,Ceres Pack House,Contract,4781,32.0
+437,Ivan,Cox,1970-08-29,Male,Black African,False,2010-04-06 11:01:19.452190,Logistics,Logistics Supervisor,Upington,Permanent,14443,16.0
+438,Daniel,Meza,1982-07-05,Male,Black African,False,2014-07-02 11:01:19.452190,Cattle Farming,Milking Technician,Dullstroom,Permanent,11041,6.0
+439,Courtney,Taylor,1966-12-12,Female,Black African,False,2019-07-04 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Permanent,15960,284.0
+440,Ryan,Garcia,1996-03-02,Male,Black African,False,2009-09-02 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Permanent,5280,24.0
+441,Russell,Stephenson,1965-07-12,Male,Black African,False,2024-10-10 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Seasonal,3564,47.0
+442,Gabrielle,Miranda,1968-11-20,Female,Coloured,False,2024-09-17 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4777,2.0
+443,James,Martin,1999-01-27,Male,Black African,False,2013-03-01 11:01:19.452190,Logistics,Driver,Citrusdal,Permanent,6627,89.0
+444,Ray,Lamb,1967-02-11,Male,Black African,False,2024-05-10 11:01:19.452190,Administration,HR Assistant,Dullstroom,Permanent,5527,255.0
+445,Jessica,Jenkins,1988-07-08,Female,Black African,False,2021-05-10 11:01:19.452190,Maintenance,Maintenance Supervisor,Upington,Permanent,9876,3.0
+446,David,Wallace,1974-06-05,Male,Black African,False,2024-12-09 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Seasonal,4531,89.0
+447,Nicole,Cole,1984-10-19,Female,Black African,True,2024-10-15 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,3608,41.0
+448,Eric,Stokes,1981-01-20,Male,Black African,False,2025-01-29 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4281,377.0
+449,Russell,Richardson,2004-08-18,Male,Black African,False,2024-11-19 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,4633,43.0
+450,Victoria,Murray,1972-09-10,Female,Black African,False,2018-01-24 11:01:19.452190,Administration,Office Manager,Graaff-Reinet,Permanent,32246,35.0
+451,Janet,Rose,2005-07-19,Female,Black African,True,2019-04-03 11:01:19.452190,Administration,Payroll Officer,Graaff-Reinet,Permanent,6268,377.0
+452,Robert,Solis,1965-10-23,Male,Indian/Asian,False,2015-05-11 11:01:19.452190,Maintenance,Mechanic,Dullstroom,Permanent,6452,36.0
+453,David,Davidson,2001-02-15,Male,Indian/Asian,False,2025-01-06 11:01:19.452190,Citrus Production,Farm Worker,Ceres,Seasonal,3897,17.0
+454,Kristen,Garcia,1999-10-09,Female,White,False,2024-12-05 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,3548,11.0
+455,Sarah,Mitchell,1995-10-18,Female,White,False,2013-05-29 11:01:19.452190,Logistics,Warehouse Worker,Ceres,Permanent,6828,40.0
+456,Don,Whitehead,1966-03-29,Male,Black African,False,2024-12-14 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,4572,21.0
+457,Jeffrey,Potts,1969-10-28,Male,Coloured,False,2010-05-21 11:01:19.452190,Administration,Office Manager,Graaff-Reinet,Permanent,41015,22.0
+458,Joanne,Bailey,1960-06-12,Female,Black African,False,2024-11-09 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4934,20.0
+459,Amy,Shaw,1972-08-28,Female,Black African,False,2025-01-29 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,4758,89.0
+460,Wendy,Brooks,1960-07-09,Female,Black African,False,2017-11-28 11:01:19.452190,Logistics,Forklift Operator,Upington,Permanent,8941,49.0
+461,Tara,Combs,1990-05-14,Female,White,False,2022-09-04 11:01:19.452190,Administration,Payroll Officer,Citrusdal Pack House,Permanent,3742,13.0
+462,Rick,Taylor,1974-07-01,Male,Black African,False,2016-07-13 11:01:19.452190,Maintenance,Maintenance Supervisor,Upington,Permanent,15312,3.0
+463,Ronald,Horton,1965-10-30,Male,Black African,False,2024-09-23 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,3666,46.0
+464,Michele,West,1959-06-03,Female,Coloured,False,2012-03-18 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Permanent,13521,209.0
+465,Bobby,Scott,1994-03-24,Male,Black African,False,2019-05-07 11:01:19.452190,Logistics,Logistics Supervisor,Graaff-Reinet,Permanent,11424,384.0
+466,Kimberly,Acosta,1983-03-03,Female,Black African,False,2021-11-25 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Contract,11834,284.0
+467,Brian,Roberts,1973-08-15,Male,Black African,False,2025-01-09 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Seasonal,3528,303.0
+468,Anthony,Barnes,1992-09-30,Male,Black African,False,2025-01-23 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,3287,47.0
+469,Jim,Rodriguez,2002-08-13,Male,Black African,False,2014-12-10 11:01:19.452190,Administration,Office Manager,Citrusdal,Permanent,40532,21.0
+470,Kyle,Smith,1982-09-21,Male,Indian/Asian,False,2016-05-14 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Permanent,12097,303.0
+471,David,Thomas,1979-10-09,Male,Black African,False,2024-10-27 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,4732,4.0
+472,Lisa,Allen,1979-03-02,Female,Black African,False,2021-01-10 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres,Permanent,15882,37.0
+473,Matthew,Miller,2005-12-13,Male,Black African,False,2024-09-26 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4165,3.0
+474,Barry,Fox,1983-07-09,Male,Coloured,False,2025-01-18 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3377,42.0
+475,Virginia,Spencer,1977-11-28,Female,Black African,False,2021-10-07 11:01:19.452190,Pack House Operations,Packer,Ceres,Contract,5725,45.0
+476,John,Reid,2006-04-04,Male,Black African,False,2021-08-25 11:01:19.452190,Administration,Office Manager,Upington,Contract,18199,25.0
+477,Dawn,Smith,1997-01-06,Female,Black African,False,2024-11-28 11:01:19.452190,Citrus Production,Harvester,Ceres,Seasonal,4307,45.0
+478,Gregory,Quinn,1989-04-28,Male,Black African,False,2025-02-24 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,4822,20.0
+479,Patricia,Moss,1975-02-16,Female,Black African,False,2025-01-02 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,4902,384.0
+480,Andrew,Payne,1998-03-20,Male,Coloured,False,2025-02-13 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,3794,43.0
+481,Christopher,Maxwell,1981-06-20,Male,Black African,False,2024-09-12 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,4599,47.0
+482,Melissa,Welch,1998-02-13,Female,Coloured,True,2018-06-08 11:01:19.452190,Grape Production,Viticulturist,Upington,Permanent,5470,41.0
+483,Arthur,Parsons,1980-08-24,Male,Black African,False,2024-10-04 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4567,22.0
+484,Edward,Williams,1968-09-28,Male,Black African,False,2024-12-16 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,4005,30.0
+485,Amanda,Mahoney,1983-11-27,Female,Black African,False,2018-06-11 11:01:19.452190,Administration,Admin Clerk,Upington,Permanent,6062,3.0
+486,William,Daniels,1973-04-15,Male,Black African,False,2021-05-25 11:01:19.452190,Logistics,Logistics Supervisor,Citrusdal,Contract,12649,31.0
+487,Nicole,Lee,1976-04-20,Female,Black African,False,2024-12-02 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4849,11.0
+488,Priscilla,Glenn,1976-02-13,Female,Black African,False,2025-02-13 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4745,23.0
+489,Caleb,Richardson,1996-03-10,Male,Black African,False,2010-09-11 11:01:19.452190,Logistics,Logistics Supervisor,Citrusdal Pack House,Permanent,15001,1.0
+490,Natalie,Kline,1978-02-01,Female,Black African,False,2016-03-10 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Permanent,11320,26.0
+491,William,Crawford,1983-01-18,Male,Black African,False,2024-12-25 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,3918,203.0
+492,Tim,Stone,1993-01-04,Male,Black African,False,2009-04-02 11:01:19.452190,Logistics,Logistics Supervisor,Ceres Pack House,Permanent,16940,30.0
+493,Nicholas,Miller,1988-02-01,Male,Black African,False,2025-02-06 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,4781,39.0
+494,Rodney,Gardner,1974-08-02,Male,Black African,False,2014-09-24 11:01:19.452190,Administration,Office Manager,Upington,Permanent,32294,49.0
+495,Bobby,Guerrero,1973-11-17,Male,Black African,False,2014-10-01 11:01:19.452190,Administration,HR Assistant,Ceres Pack House,Permanent,6408,38.0
+496,Lindsey,Simmons,1992-04-10,Female,Black African,False,2025-01-01 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,4507,5.0
+497,Heather,Williams,2000-12-05,Female,Black African,False,2024-05-28 11:01:19.452190,Maintenance,Mechanic,Citrusdal,Permanent,3788,8.0
+498,Harold,Bolton,1972-05-06,Male,Black African,False,2025-01-29 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4529,19.0
+499,William,Gould,1962-10-08,Male,Coloured,False,2010-09-04 11:01:19.452190,Logistics,Driver,Ceres,Permanent,6769,45.0
+500,Marcia,Cox,1993-01-03,Female,Black African,True,2024-12-19 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,3019,89.0
+501,Michael,Cisneros,1966-01-08,Male,Black African,False,2024-11-16 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,4583,48.0
+502,Lawrence,Harrington,1965-06-03,Male,Black African,False,2024-12-17 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Seasonal,3819,377.0
+503,Austin,Osborne,1977-05-10,Male,Black African,False,2024-10-25 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4695,33.0
+504,Janet,Bradley,1985-12-14,Female,Black African,False,2024-10-21 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Seasonal,4994,469.0
+505,Meghan,Rush,1977-01-09,Female,Black African,False,2022-07-18 11:01:19.452190,Administration,HR Assistant,Graaff-Reinet,Permanent,4689,450.0
+506,Pamela,Berry,1984-07-31,Female,Coloured,False,2024-11-29 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Seasonal,3746,457.0
+507,Jennifer,Banks,1971-02-24,Female,Black African,False,2011-11-01 11:01:19.452190,Logistics,Driver,Citrusdal Pack House,Permanent,8637,23.0
+508,Ashley,Fitzgerald,1982-02-18,Female,Black African,False,2014-03-10 11:01:19.452190,Cattle Farming,Animal Care Specialist,Dullstroom,Permanent,13589,209.0
+509,Jasmine,Hoffman,1971-09-25,Female,Black African,False,2024-12-22 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,4194,2.0
+510,David,Griffin,2006-12-29,Male,Black African,False,2024-11-16 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4425,50.0
+511,Donna,Hendricks,1982-09-29,Female,Black African,False,2024-10-07 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres,Seasonal,4491,224.0
+512,Bryan,Farrell,1980-11-12,Male,Black African,False,2025-01-26 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Permanent,11750,6.0
+513,Stephanie,Wallace,1963-05-20,Female,Black African,False,2013-05-14 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Permanent,5604,29.0
+514,Melanie,Bruce,1974-07-05,Female,Coloured,False,2025-01-07 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4556,31.0
+515,Hannah,Brown,1983-09-09,Female,Black African,False,2022-08-01 11:01:19.452190,Maintenance,Maintenance Supervisor,Upington,Contract,9520,41.0
+516,Stephanie,York,1989-10-17,Female,Coloured,False,2024-08-10 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Permanent,12410,5.0
+517,Tammy,Little,1992-09-28,Female,Coloured,False,2024-09-25 11:01:19.452190,Citrus Production,Farm Supervisor,Ceres,Seasonal,3498,48.0
+518,Katie,Martinez,1968-10-24,Female,White,False,2024-10-14 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,4602,39.0
+519,Charles,Tyler,1960-06-05,Male,Indian/Asian,False,2013-05-03 11:01:19.452190,Administration,Data Entry Clerk,Graaff-Reinet,Permanent,7448,35.0
+520,Julian,Wood,1993-02-06,Male,Black African,False,2025-02-21 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Seasonal,4528,22.0
+521,Kristen,Salazar,1963-04-22,Female,Black African,False,2024-12-29 11:01:19.452190,Grape Production,Harvester,Upington,Seasonal,4728,20.0
+522,Eric,Key,1990-01-18,Male,Black African,False,2024-10-28 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,3778,21.0
+523,Joseph,Hammond,1998-09-08,Male,Black African,False,2024-12-31 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,4266,23.0
+524,Angela,Compton,1989-12-31,Female,Black African,False,2023-09-25 11:01:19.452190,Maintenance,Equipment Technician,Upington,Contract,11639,16.0
+525,Jerry,Frazier,1975-09-15,Male,Black African,False,2017-03-11 11:01:19.452190,Maintenance,Maintenance Worker,Ceres Pack House,Permanent,6324,38.0
+526,Sherry,Deleon,1989-11-16,Female,Coloured,False,2024-12-27 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,3827,255.0
+527,Catherine,Burch,1979-09-29,Female,Black African,False,2024-12-21 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,4370,4.0
+528,Susan,Brown,1968-08-21,Female,Black African,False,2024-12-16 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,3976,22.0
+529,Brittany,Martin,1974-08-27,Female,Black African,False,2024-10-13 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,3709,30.0
+530,Michelle,Reed,2004-04-30,Female,White,True,2024-09-26 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,4765,31.0
+531,Stephanie,Singleton,1973-03-11,Female,White,False,2025-02-21 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Seasonal,3250,27.0
+532,Mark,Pierce,1965-03-05,Male,Coloured,False,2015-09-27 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Permanent,4643,24.0
+533,Elizabeth,Ferguson,1983-04-17,Female,White,False,2018-12-12 11:01:19.452190,Administration,Office Manager,Citrusdal,Permanent,45589,19.0
+534,Christopher,David,1966-07-27,Male,Black African,False,2024-09-09 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Seasonal,3110,255.0
+535,Matthew,Le,1988-03-19,Male,Indian/Asian,False,2015-05-15 11:01:19.452190,Administration,Data Entry Clerk,Upington,Permanent,4972,476.0
+536,Sarah,Elliott,1998-10-12,Female,Black African,False,2024-11-29 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,3041,2.0
+537,Allen,Williams,1989-12-15,Male,Indian/Asian,False,2022-01-15 11:01:19.452190,Administration,Data Entry Clerk,Ceres,Permanent,4278,40.0
+538,Laura,Curtis,1995-12-25,Female,Black African,False,2019-07-18 11:01:19.452190,Administration,Payroll Officer,Ceres Pack House,Permanent,5798,29.0
+539,Jason,Fowler,1983-01-27,Male,Black African,False,2025-02-08 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,4750,6.0
+540,Mark,Roberts,2005-01-31,Male,Black African,False,2025-01-03 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,3381,1.0
+541,John,Ballard,1992-01-18,Male,Black African,False,2025-02-14 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,4680,18.0
+542,Edward,Jones,1962-01-16,Male,Black African,False,2024-11-09 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,3985,46.0
+543,Jessica,Washington,1968-12-16,Female,Black African,False,2025-01-03 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4397,11.0
+544,Lisa,Edwards,1990-01-11,Female,Black African,False,2025-02-20 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,4135,38.0
+545,Morgan,Valencia,2005-12-26,Female,Black African,False,2024-09-28 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,4323,30.0
+546,Carlos,Wood,1986-02-15,Male,Black African,False,2012-05-26 11:01:19.452190,Grape Production,Pruner,Upington,Permanent,7233,46.0
+547,Francis,Owens,1972-01-03,Male,Coloured,False,2024-09-27 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,3734,4.0
+548,Danielle,Davis,1973-02-04,Female,Black African,False,2024-10-26 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3436,469.0
+549,Janet,Gilbert,1973-02-08,Female,Black African,False,2025-02-04 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,3107,13.0
+550,Sean,Moore,1974-11-19,Male,Black African,False,2024-11-30 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,3972,5.0
+551,Kenneth,Edwards,1995-10-19,Male,White,False,2023-07-09 11:01:19.452190,Maintenance,Maintenance Worker,Citrusdal Pack House,Contract,4670,1.0
+552,Jonathan,Robertson,1983-02-09,Male,Black African,False,2024-11-21 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4870,15.0
+553,Elizabeth,Johnson,1998-03-13,Female,Coloured,False,2018-11-03 11:01:19.452190,Maintenance,Maintenance Supervisor,Ceres Pack House,Permanent,9815,4.0
+554,Jonathan,Levy,1971-11-30,Male,Black African,False,2024-09-29 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,3100,25.0
+555,Heather,Williams,1982-12-03,Female,Black African,False,2021-07-08 11:01:19.452190,Administration,Admin Clerk,Ceres,Permanent,3883,17.0
+556,Sonya,Pena,1981-10-03,Female,White,False,2015-07-11 11:01:19.452190,Logistics,Driver,Citrusdal Pack House,Permanent,7070,11.0
+557,Joshua,Boone,1979-11-08,Male,Black African,False,2013-12-10 11:01:19.452190,Maintenance,Electrician,Ceres,Permanent,4957,9.0
+558,Sonya,Luna,1991-09-01,Female,White,False,2011-08-30 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Permanent,13924,10.0
+559,Jacob,Morales,1986-07-17,Male,Coloured,False,2018-09-20 11:01:19.452190,Logistics,Dispatcher,Citrusdal,Permanent,4821,533.0
+560,Chloe,Tran,1962-09-12,Female,White,False,2020-04-29 11:01:19.452190,Administration,Payroll Officer,Citrusdal,Permanent,4663,8.0
+561,Kathy,Duran,1972-08-05,Female,White,False,2024-11-19 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,4478,39.0
+562,William,Becker,1968-06-12,Male,Black African,True,2025-02-22 11:01:19.452190,Maintenance,Maintenance Supervisor,Upington,Contract,12943,49.0
+563,William,Long,1997-04-28,Male,Black African,False,2024-10-09 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Seasonal,4699,384.0
+564,Gina,Mcmillan,1995-05-29,Female,Black African,False,2022-08-05 11:01:19.452190,Administration,Payroll Officer,Ceres,Permanent,3954,224.0
+565,Christina,Hicks,1983-03-04,Female,Black African,False,2024-10-11 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Seasonal,3010,43.0
+566,Amber,Taylor,1975-02-25,Female,Coloured,False,2024-10-22 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,4514,6.0
+567,John,Bryant,1988-04-07,Male,Black African,False,2016-01-04 11:01:19.452190,Grape Production,Viticulturist,Upington,Permanent,7163,16.0
+568,Jose,Murphy,1988-08-05,Male,Black African,False,2025-02-21 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,3684,1.0
+569,Christopher,Ewing,1994-08-27,Male,Black African,False,2024-11-17 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,3985,25.0
+570,Edwin,Rogers,1993-12-27,Male,Black African,False,2024-11-26 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres,Seasonal,3435,203.0
+571,Kim,Erickson,1973-07-22,Female,Black African,False,2024-11-16 11:01:19.452190,Cattle Farming,Milking Technician,Dullstroom,Seasonal,4399,255.0
+572,Robert,Richardson,1991-07-06,Male,Black African,False,2022-10-29 11:01:19.452190,Administration,Admin Clerk,Ceres,Permanent,5776,17.0
+573,Veronica,Silva,1997-05-30,Female,Black African,False,2024-12-14 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,3134,2.0
+574,Nicholas,Watts,1965-02-16,Male,White,False,2024-11-16 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4578,476.0
+575,Karen,Coffey,1996-09-29,Female,Black African,False,2023-08-03 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Permanent,8146,26.0
+576,Ricardo,Lane,1993-10-17,Male,Black African,False,2018-06-19 11:01:19.452190,Administration,Office Manager,Dullstroom,Permanent,26906,36.0
+577,Kevin,Jackson,1989-05-12,Male,Coloured,False,2024-12-23 11:01:19.452190,Citrus Production,Harvester,Ceres,Seasonal,4641,48.0
+578,Lisa,Randall,1966-04-05,Female,Black African,False,2024-11-02 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,4669,30.0
+579,Melanie,Johnson,2004-09-05,Female,Coloured,False,2024-09-04 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,3551,34.0
+580,Brian,Smith,1974-03-23,Male,Black African,False,2021-08-08 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Contract,13610,29.0
+581,Brittany,Vaughn,1978-11-12,Female,Indian/Asian,False,2017-02-23 11:01:19.452190,Maintenance,Maintenance Worker,Ceres Pack House,Permanent,6082,32.0
+582,Reginald,Knapp,2001-01-23,Male,Black African,False,2024-11-14 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4296,13.0
+583,Noah,Brown,1969-02-20,Male,Black African,False,2024-09-10 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Seasonal,3211,24.0
+584,Daniel,Nguyen,1988-01-04,Male,Black African,False,2025-02-20 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Seasonal,3363,576.0
+585,Joseph,Edwards,1970-05-28,Male,Black African,False,2016-05-11 11:01:19.452190,Logistics,Logistics Supervisor,Ceres Pack House,Permanent,16083,7.0
+586,Thomas,Peterson,1976-03-04,Male,Coloured,False,2016-01-07 11:01:19.452190,Administration,Admin Clerk,Citrusdal Pack House,Permanent,4604,13.0
+587,Raymond,Le,1990-01-17,Male,Black African,False,2022-09-10 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Contract,4287,10.0
+588,Melissa,Bishop,1968-05-24,Female,Black African,False,2025-01-13 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4665,28.0
+589,David,Grant,1969-12-17,Male,White,False,2022-11-14 11:01:19.452190,Maintenance,Equipment Technician,Citrusdal,Contract,7507,15.0
+590,Valerie,Evans,1974-07-29,Female,Black African,False,2012-07-27 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Permanent,18447,12.0
+591,Daniel,Bush,1975-08-01,Male,Black African,False,2024-12-22 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,3421,42.0
+592,Gregory,Peck,1992-10-20,Male,Black African,False,2024-10-22 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,3908,384.0
+593,Donald,Martinez,1991-08-24,Male,Black African,False,2024-05-16 11:01:19.452190,Logistics,Driver,Upington,Permanent,5594,20.0
+594,James,Baird,1998-06-13,Male,Black African,False,2024-12-06 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3836,89.0
+595,Troy,Ballard,1973-02-09,Male,Coloured,False,2024-11-10 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Seasonal,3104,12.0
+596,Dwayne,Klein,1975-10-17,Male,Coloured,False,2024-11-16 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,4896,209.0
+597,Jessica,Scott,1982-03-01,Female,Black African,False,2021-09-14 11:01:19.452190,Logistics,Forklift Operator,Ceres Pack House,Permanent,5615,4.0
+598,Christina,Ryan,2003-12-14,Female,Black African,False,2009-09-27 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Permanent,9570,384.0
+599,Michael,Taylor,1988-09-20,Male,Black African,True,2024-11-21 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,3542,31.0
+600,Kevin,Sanchez,1991-04-27,Male,Coloured,False,2020-12-05 11:01:19.452190,Maintenance,Equipment Technician,Citrusdal Pack House,Permanent,12133,23.0
+601,Joseph,Little,1961-09-08,Male,Black African,False,2018-02-23 11:01:19.452190,Grape Production,Viticulturist,Upington,Permanent,4387,41.0
+602,Jennifer,Love,1967-10-16,Female,Black African,False,2014-03-05 11:01:19.452190,Maintenance,Maintenance Supervisor,Ceres Pack House,Permanent,17020,14.0
+603,Randy,Smith,1985-08-01,Male,Black African,False,2025-01-27 11:01:19.452190,Grape Production,Harvester,Upington,Seasonal,4821,25.0
+604,Timothy,Russell,2004-01-18,Male,Black African,False,2024-12-08 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,4654,43.0
+605,Shawn,Woods,1971-05-08,Male,Indian/Asian,False,2011-07-01 11:01:19.452190,Maintenance,Maintenance Supervisor,Citrusdal Pack House,Permanent,13537,13.0
+606,Victor,Morris,1990-03-03,Male,Black African,False,2025-01-10 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,4344,494.0
+607,Terry,Davis,1986-09-22,Male,Black African,False,2012-02-06 11:01:19.452190,Maintenance,Electrician,Upington,Permanent,6289,46.0
+608,Kimberly,Sharp,1997-11-21,Female,Black African,False,2024-11-14 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Seasonal,4976,19.0
+609,Susan,Thompson,2001-07-07,Female,White,False,2012-01-05 11:01:19.452190,Logistics,Dispatcher,Citrusdal Pack House,Permanent,5490,23.0
+610,Casey,Gillespie,2007-01-12,Female,Black African,False,2025-01-01 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,4001,47.0
+611,James,Simpson,2004-02-15,Male,Black African,False,2021-06-10 11:01:19.452190,Logistics,Driver,Graaff-Reinet,Contract,6809,22.0
+612,Tonya,Howe,1995-09-25,Female,Black African,False,2015-04-22 11:01:19.452190,Citrus Production,Irrigation Specialist,Ceres,Permanent,9222,17.0
+613,Adam,Bradley,1964-04-26,Male,Black African,False,2024-12-26 11:01:19.452190,Administration,Payroll Officer,Dullstroom,Seasonal,4927,12.0
+614,Victoria,Mitchell,2006-08-23,Female,Coloured,False,2009-12-17 11:01:19.452190,Administration,Admin Clerk,Dullstroom,Permanent,4567,44.0
+615,Joshua,Snyder,1997-12-16,Male,Indian/Asian,False,2024-10-13 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,3647,34.0
+616,Sarah,Mcdonald,1968-06-03,Female,Black African,False,2024-12-09 11:01:19.452190,Administration,Data Entry Clerk,Dullstroom,Seasonal,3244,10.0
+617,Ashley,Martin,1981-03-12,Female,Black African,False,2011-11-17 11:01:19.452190,Pack House Operations,Packer,Ceres,Permanent,4960,17.0
+618,David,Lopez,1994-07-11,Male,Coloured,False,2022-11-18 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Permanent,7439,40.0
+619,Rachel,Bradley,1995-07-08,Female,Black African,False,2020-06-28 11:01:19.452190,Maintenance,Mechanic,Graaff-Reinet,Permanent,6413,457.0
+620,Christopher,Chase,1996-06-18,Male,Black African,False,2015-08-16 11:01:19.452190,Logistics,Logistics Supervisor,Citrusdal Pack House,Permanent,15502,43.0
+621,Samantha,Robertson,1963-05-01,Female,Black African,False,2024-09-09 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Seasonal,4569,24.0
+622,Maureen,Lopez,1965-12-01,Female,Black African,False,2024-11-04 11:01:19.452190,Pack House Operations,Packer,Ceres,Seasonal,4512,224.0
+623,Erica,Wright,1971-09-08,Female,Black African,False,2016-02-23 11:01:19.452190,Grape Production,Pruner,Upington,Permanent,6758,3.0
+624,David,Molina,2004-12-17,Male,Black African,False,2024-11-14 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,4663,5.0
+625,Eric,Sharp,1959-09-19,Male,White,False,2022-05-25 11:01:19.452190,Logistics,Dispatcher,Graaff-Reinet,Permanent,3746,27.0
+626,Martha,Schwartz,1966-05-28,Female,Black African,False,2022-04-08 11:01:19.452190,Maintenance,Maintenance Supervisor,Graaff-Reinet,Permanent,12297,42.0
+627,Bailey,Parker,1978-10-06,Female,Black African,False,2024-12-17 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,3779,1.0
+628,Kathryn,Jacobson,1992-12-08,Female,Indian/Asian,False,2011-03-07 11:01:19.452190,Logistics,Dispatcher,Citrusdal Pack House,Permanent,5865,43.0
+629,Eric,Wilson,2003-02-21,Male,Black African,False,2024-11-09 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,3636,22.0
+630,Edward,Mendez,1969-09-07,Male,Black African,False,2025-01-03 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,4333,14.0
+631,Brandi,Hernandez,1995-01-22,Female,Black African,False,2024-10-26 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,3373,40.0
+632,Lisa,Perry,1985-07-13,Female,Black African,False,2024-10-17 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,3251,20.0
+633,Kaitlin,Medina,1988-01-29,Female,Black African,False,2024-10-16 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4664,27.0
+634,Daniel,Wright,1995-05-25,Male,White,False,2024-12-19 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,4046,11.0
+635,Shane,Miller,1980-08-11,Male,Indian/Asian,False,2024-12-22 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,4089,14.0
+636,Michael,Miller,1986-04-01,Male,Black African,False,2024-12-04 11:01:19.452190,Pack House Operations,Machine Operator,Citrusdal Pack House,Seasonal,4112,11.0
+637,Antonio,Kelley,1982-05-14,Male,Black African,False,2023-07-30 11:01:19.452190,Maintenance,Maintenance Supervisor,Citrusdal,Contract,13365,28.0
+638,Kenneth,Hernandez,1974-12-01,Male,Black African,False,2009-06-06 11:01:19.452190,Maintenance,Equipment Technician,Upington,Permanent,11342,46.0
+639,Kelly,Wilson,1969-01-10,Female,Black African,False,2024-10-04 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,4631,19.0
+640,Lauren,Davis,1983-08-31,Female,Indian/Asian,False,2016-05-15 11:01:19.452190,Maintenance,Maintenance Worker,Ceres Pack House,Permanent,5740,14.0
+641,Robert,Chavez,1983-10-21,Male,Black African,False,2025-02-07 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4232,43.0
+642,Joyce,Brown,1981-05-12,Female,Black African,False,2024-11-22 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,3395,39.0
+643,Robert,Cummings,1978-03-04,Male,Black African,False,2025-01-18 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,3253,23.0
+644,Robert,Reese,1984-12-27,Male,Black African,False,2024-10-06 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4104,16.0
+645,Andrew,Cooper,1962-03-24,Male,Black African,True,2025-02-14 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Seasonal,4356,377.0
+646,Zachary,Michael,1962-06-25,Male,Black African,True,2011-12-28 11:01:19.452190,Grape Production,Pruner,Upington,Permanent,6485,3.0
+647,Timothy,Johnson,1978-10-17,Male,Black African,False,2025-02-11 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,4582,14.0
+648,Randy,Cannon,2006-02-16,Male,Indian/Asian,False,2025-01-17 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3651,28.0
+649,Maria,Fisher,2006-10-28,Female,White,False,2025-02-15 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,4344,4.0
+650,James,Kane,2002-09-10,Male,White,False,2010-03-08 11:01:19.452190,Maintenance,Maintenance Worker,Upington,Permanent,4591,3.0
+651,James,Vega,1990-12-07,Male,Black African,False,2024-11-23 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3254,31.0
+652,Kimberly,Valdez,1976-09-08,Female,Coloured,False,2022-12-06 11:01:19.452190,Maintenance,Maintenance Supervisor,Upington,Contract,9378,25.0
+653,Cassandra,Medina,1984-07-20,Female,Black African,False,2017-12-03 11:01:19.452190,Grape Production,Harvester,Upington,Permanent,6733,46.0
+654,Nicholas,Walker,1964-04-17,Male,Indian/Asian,False,2024-10-13 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4082,13.0
+655,Alexander,Evans,1991-06-30,Male,Coloured,False,2024-11-16 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,4649,35.0
+656,Joshua,Patel,1998-09-09,Male,Black African,False,2025-01-21 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3326,27.0
+657,David,Reed,1972-05-25,Male,Black African,False,2024-10-13 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3966,50.0
+658,Timothy,Hardy,1964-08-01,Male,Black African,False,2012-03-27 11:01:19.452190,Administration,Office Manager,Dullstroom,Permanent,39224,12.0
+659,Robert,Barnes,1995-12-09,Male,Black African,False,2025-02-08 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,3088,494.0
+660,Stephen,Smith,1969-01-22,Male,Indian/Asian,False,2023-10-31 11:01:19.452190,Logistics,Warehouse Worker,Ceres,Contract,5605,224.0
+661,Ashlee,Johnson,1987-11-11,Female,Black African,False,2024-09-05 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Seasonal,4361,24.0
+662,Michele,Williams,1990-10-30,Female,Black African,False,2012-07-25 11:01:19.452190,Maintenance,Maintenance Supervisor,Graaff-Reinet,Permanent,13877,457.0
+663,James,Young,1969-08-06,Male,Black African,False,2020-04-22 11:01:19.452190,Administration,Admin Clerk,Upington,Permanent,6064,494.0
+664,Scott,Brown,1982-04-23,Male,Black African,False,2024-09-08 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4913,476.0
+665,Dylan,Cabrera,1990-07-03,Male,Black African,False,2024-11-05 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4235,2.0
+666,Francis,Harper,1991-06-13,Male,Coloured,False,2024-10-29 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,3874,1.0
+667,Erica,Turner,1966-01-16,Female,Coloured,False,2025-02-21 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3449,377.0
+668,Mary,Walker,1973-08-04,Female,Black African,False,2024-12-14 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,4463,18.0
+669,Amy,Fry,2001-05-24,Female,White,False,2024-10-11 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,4304,294.0
+670,Susan,Garrett,1979-09-03,Female,Black African,False,2025-01-23 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3266,31.0
+671,Kathleen,Compton,1998-01-24,Female,Black African,False,2024-12-26 11:01:19.452190,Maintenance,Maintenance Supervisor,Citrusdal,Contract,10488,31.0
+672,Michael,Floyd,1974-06-20,Male,Black African,False,2024-11-04 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4311,11.0
+673,Jason,Hernandez,1977-03-28,Male,Coloured,False,2025-02-11 11:01:19.452190,Administration,HR Assistant,Dullstroom,Seasonal,4127,44.0
+674,Nicole,Wells,1999-12-08,Female,Black African,False,2011-11-05 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Permanent,6532,8.0
+675,Eric,Zimmerman,1993-03-06,Male,Black African,False,2010-05-24 11:01:19.452190,Maintenance,Maintenance Supervisor,Citrusdal,Permanent,12063,469.0
+676,Thomas,Hart,2005-08-15,Male,Black African,False,2010-05-26 11:01:19.452190,Administration,Admin Clerk,Ceres Pack House,Permanent,5585,5.0
+677,Justin,Anderson,1970-10-28,Male,Black African,False,2021-06-02 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Contract,5286,13.0
+678,Dalton,Lucas,2003-06-08,Male,Black African,False,2024-10-05 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3243,15.0
+679,Sarah,Davis,1990-04-03,Female,Black African,False,2024-12-14 11:01:19.452190,Cattle Farming,Animal Care Specialist,Dullstroom,Seasonal,3591,284.0
+680,Connor,Adams,1991-07-03,Male,Coloured,False,2024-12-18 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3769,377.0
+681,Larry,Russo,1968-03-13,Male,Coloured,False,2024-09-25 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,3354,39.0
+682,Philip,Ramsey,1985-12-28,Male,Black African,False,2024-12-03 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Seasonal,3774,224.0
+683,John,Booth,1975-02-24,Male,Black African,False,2024-11-08 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Seasonal,4114,45.0
+684,Tina,Smith,2004-02-25,Female,Black African,False,2024-10-10 11:01:19.452190,Grape Production,Harvester,Upington,Seasonal,4471,494.0
+685,Victor,Wilson,2007-02-23,Male,Black African,False,2024-09-07 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,3276,23.0
+686,John,Sanchez,1985-12-05,Male,Black African,False,2021-09-26 11:01:19.452190,Logistics,Logistics Supervisor,Citrusdal,Permanent,14518,15.0
+687,Daniel,Herman,1985-09-01,Male,Coloured,False,2024-10-09 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4531,494.0
+688,Reginald,James,1984-10-12,Male,Indian/Asian,False,2021-08-18 11:01:19.452190,Logistics,Driver,Upington,Permanent,6850,49.0
+689,Ian,Green,1983-10-13,Male,Black African,False,2025-02-11 11:01:19.452190,Administration,Payroll Officer,Dullstroom,Seasonal,4272,44.0
+690,Kathleen,Garcia,1999-07-01,Female,Black African,False,2024-10-18 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4530,18.0
+691,John,Franco,2003-01-21,Male,Black African,False,2024-12-19 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,3218,476.0
+692,Jacob,Gutierrez,1986-03-03,Male,White,False,2010-09-12 11:01:19.452190,Administration,Payroll Officer,Upington,Permanent,7381,16.0
+693,Connie,Thomas,1971-09-07,Female,Black African,False,2010-07-29 11:01:19.452190,Logistics,Forklift Operator,Ceres Pack House,Permanent,7793,4.0
+694,Timothy,Riley,1979-03-18,Male,Black African,False,2025-01-25 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3010,27.0
+695,Brittany,Rivera,1977-05-26,Female,Indian/Asian,False,2022-12-08 11:01:19.452190,Maintenance,Maintenance Worker,Citrusdal,Contract,4282,533.0
+696,Sandra,Porter,1987-09-26,Female,Black African,False,2025-02-02 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Seasonal,3504,533.0
+697,Michael,Scott,1998-08-09,Male,Coloured,False,2025-01-02 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3766,89.0
+698,Vincent,May,1982-09-19,Male,Black African,False,2025-01-31 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Seasonal,4022,6.0
+699,Carol,Norton,1967-04-17,Female,Black African,False,2024-12-10 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3937,8.0
+700,Nathan,Freeman,2003-03-07,Male,White,False,2025-01-27 11:01:19.452190,Administration,Payroll Officer,Upington,Permanent,3617,46.0
+701,Kimberly,May,1961-12-26,Female,White,False,2015-03-13 11:01:19.452190,Administration,HR Assistant,Dullstroom,Permanent,4865,255.0
+702,Andrew,Bradford,2004-07-15,Male,Black African,False,2011-07-31 11:01:19.452190,Logistics,Driver,Ceres Pack House,Permanent,7496,38.0
+703,Michael,Duran,1979-01-06,Male,Black African,False,2013-02-07 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Permanent,14184,255.0
+704,Sarah,Hall,1989-08-17,Female,Black African,False,2011-01-11 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Permanent,14177,36.0
+705,Alexa,Wagner,1977-01-29,Female,Black African,False,2024-12-01 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,3916,39.0
+706,Lisa,Estrada,1988-10-04,Female,Black African,False,2015-08-26 11:01:19.452190,Grape Production,Harvester,Upington,Permanent,7129,41.0
+707,John,Freeman,1964-05-28,Male,Black African,False,2022-07-30 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Contract,7317,377.0
+708,Juan,Smith,1983-03-25,Male,Black African,False,2024-11-01 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,4448,4.0
+709,Donald,Madden,1959-12-28,Male,Black African,False,2013-03-02 11:01:19.452190,Administration,Office Manager,Ceres,Permanent,44679,9.0
+710,Robert,Craig,1997-11-11,Male,Black African,False,2024-11-03 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres,Seasonal,3379,224.0
+711,Susan,Rodriguez,1967-08-21,Female,Black African,False,2024-11-14 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Seasonal,4630,6.0
+712,Brittany,Lee,1984-06-08,Female,Black African,False,2025-01-05 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,4977,2.0
+713,Robert,Adams,1978-03-21,Male,Indian/Asian,False,2022-01-15 11:01:19.452190,Maintenance,Electrician,Ceres Pack House,Contract,5643,29.0
+714,Jake,Sullivan,1986-04-15,Male,Black African,False,2024-10-10 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,4808,48.0
+715,William,Perez,1992-01-01,Male,Black African,False,2024-10-06 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Contract,3967,38.0
+716,Sarah,Valdez,1995-01-24,Female,White,False,2022-04-13 11:01:19.452190,Maintenance,Maintenance Supervisor,Graaff-Reinet,Permanent,12137,377.0
+717,Peter,Davis,1977-05-16,Male,Black African,False,2024-11-26 11:01:19.452190,Pack House Operations,Packer,Ceres,Seasonal,3328,224.0
+718,Juan,Brown,1959-08-15,Male,White,False,2015-12-17 11:01:19.452190,Administration,Admin Clerk,Citrusdal Pack House,Permanent,5048,13.0
+719,Carolyn,Porter,1979-12-30,Female,Black African,False,2024-10-12 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,4719,30.0
+720,Rachel,Knight,1995-01-21,Female,White,False,2015-05-01 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Permanent,17446,49.0
+721,Brandon,Rice,1961-03-18,Male,Black African,False,2023-04-05 11:01:19.452190,Administration,Office Manager,Citrusdal,Contract,26653,31.0
+722,Daniel,Parrish,2001-10-08,Male,Black African,False,2025-01-06 11:01:19.452190,Maintenance,Electrician,Dullstroom,Seasonal,4592,284.0
+723,John,Williams,1962-09-26,Male,Black African,False,2024-12-23 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,3827,32.0
+724,Tammy,Lam,1986-03-20,Female,Black African,False,2021-09-20 11:01:19.452190,Administration,Office Manager,Citrusdal,Contract,33391,31.0
+725,Andrew,Mcfarland,1975-06-29,Male,Coloured,False,2009-06-02 11:01:19.452190,Logistics,Logistics Supervisor,Ceres,Permanent,15024,48.0
+726,Tonya,Matthews,1995-04-11,Female,Black African,False,2022-03-12 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Permanent,5388,4.0
+727,Michelle,Sanders,1962-11-10,Female,Black African,False,2022-05-04 11:01:19.452190,Administration,HR Assistant,Citrusdal Pack House,Contract,5810,1.0
+728,Christopher,Allen,1999-03-26,Male,Black African,False,2024-01-21 11:01:19.452190,Logistics,Forklift Operator,Ceres Pack House,Permanent,7666,4.0
+729,Jasmine,Mosley,1975-02-02,Female,Black African,False,2024-10-23 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Seasonal,4392,450.0
+730,Perry,Taylor,2006-08-12,Male,Black African,False,2025-02-17 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,4767,38.0
+731,Misty,Mason,2005-12-07,Female,Black African,False,2025-02-20 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,3720,29.0
+732,Anthony,Kim,1999-06-04,Male,White,False,2024-04-08 11:01:19.452190,Logistics,Driver,Citrusdal,Permanent,5018,89.0
+733,Gilbert,Mack,2004-12-31,Male,Black African,False,2011-09-23 11:01:19.452190,Administration,Admin Clerk,Ceres,Permanent,6440,45.0
+734,James,Ayala,1960-08-03,Male,Black African,True,2025-01-22 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,3332,23.0
+735,Donald,Riddle,1982-09-19,Male,Black African,False,2025-01-29 11:01:19.452190,Citrus Production,Farm Worker,Ceres,Seasonal,4004,224.0
+736,Henry,Pugh,1979-09-19,Male,Black African,False,2024-09-15 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Seasonal,3453,27.0
+737,Michael,Guerrero,1963-04-13,Male,Indian/Asian,False,2014-05-10 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Permanent,5995,36.0
+738,Lisa,Yates,1993-05-25,Female,Coloured,False,2013-12-21 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Permanent,7188,37.0
+739,Angela,Moore,1993-04-30,Female,Black African,False,2024-09-06 11:01:19.452190,Pack House Operations,Machine Operator,Citrusdal Pack House,Seasonal,3678,13.0
+740,Mark,Singh,1974-05-15,Male,Black African,False,2024-12-17 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3774,50.0
+741,Brian,Smith,1973-12-18,Male,Black African,False,2024-11-24 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,4192,3.0
+742,Ian,Nelson,1965-07-12,Male,Black African,False,2025-01-26 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,4226,721.0
+743,Chelsea,Cole,1985-10-17,Female,Black African,False,2025-01-15 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,3893,41.0
+744,Jason,Johnson,1976-02-26,Male,Black African,False,2024-11-27 11:01:19.452190,Logistics,Forklift Operator,Upington,Permanent,6000,3.0
+745,Anna,George,1975-11-06,Female,Black African,False,2024-09-26 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4462,16.0
+746,Janice,Carter,1977-10-12,Female,Black African,False,2024-09-25 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,3994,14.0
+747,Angela,Santana,2002-08-14,Female,Black African,False,2010-05-21 11:01:19.452190,Logistics,Dispatcher,Upington,Permanent,5173,20.0
+748,William,Armstrong,1967-04-23,Male,Black African,False,2017-05-26 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Permanent,8519,27.0
+749,James,Taylor,1975-01-04,Male,Black African,False,2018-12-30 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Permanent,11806,2.0
+750,Katherine,Brown,1979-10-26,Female,White,False,2015-03-05 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Permanent,13562,31.0
+751,Jason,Washington,1962-11-10,Male,Black African,False,2024-11-24 11:01:19.452190,Maintenance,Equipment Technician,Ceres Pack House,Contract,9193,39.0
+752,David,Wright,1989-03-03,Male,Black African,False,2024-12-28 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Seasonal,4414,45.0
+753,Linda,Gonzalez,1964-04-20,Female,Coloured,False,2024-12-10 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,4183,476.0
+754,Elizabeth,Rush,1975-02-11,Female,Black African,False,2018-02-06 11:01:19.452190,Administration,Admin Clerk,Graaff-Reinet,Permanent,5834,450.0
+755,Lisa,Brock,1976-01-13,Female,Black African,False,2013-07-23 11:01:19.452190,Maintenance,Maintenance Supervisor,Upington,Permanent,11173,46.0
+756,George,Ochoa,2000-06-03,Male,White,False,2024-09-06 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,4845,32.0
+757,William,Taylor,1975-09-18,Male,Black African,False,2021-06-01 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Permanent,15743,303.0
+758,Travis,Harris,1974-04-01,Male,Indian/Asian,False,2023-11-08 11:01:19.452190,Maintenance,Maintenance Worker,Graaff-Reinet,Permanent,4938,35.0
+759,Vincent,Novak,1973-02-26,Male,Black African,False,2025-01-26 11:01:19.452190,Logistics,Driver,Citrusdal Pack House,Permanent,5318,13.0
+760,Melissa,Henry,1986-10-23,Female,Black African,False,2018-08-19 11:01:19.452190,Maintenance,Mechanic,Graaff-Reinet,Permanent,5831,450.0
+761,Dana,Bennett,1998-05-11,Female,Black African,False,2024-11-30 11:01:19.452190,Citrus Production,Farm Worker,Ceres,Seasonal,3843,17.0
+762,James,Wilson,1986-03-26,Male,Black African,False,2024-10-16 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3213,457.0
+763,Leslie,Gardner,1991-11-21,Female,Indian/Asian,False,2017-03-31 11:01:19.452190,Logistics,Driver,Citrusdal Pack House,Permanent,9190,23.0
+764,Joshua,Benton,1981-04-29,Male,Black African,False,2025-01-08 11:01:19.452190,Grape Production,Harvester,Upington,Seasonal,4515,46.0
+765,Michael,Gonzales,1973-02-24,Male,Black African,False,2014-06-14 11:01:19.452190,Logistics,Forklift Operator,Upington,Permanent,10059,41.0
+766,Michael,Fuentes,1997-05-11,Male,White,False,2020-09-04 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Permanent,5485,39.0
+767,Jennifer,Porter,1989-07-26,Female,Black African,False,2025-01-20 11:01:19.452190,Administration,Office Manager,Dullstroom,Seasonal,4206,10.0
+768,Dana,Hopkins,1993-07-01,Female,Black African,False,2010-01-23 11:01:19.452190,Maintenance,Electrician,Citrusdal Pack House,Permanent,6440,13.0
+769,Rachel,Jones,1999-11-01,Female,White,False,2025-01-30 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4247,23.0
+770,Karen,Morales,1983-06-26,Female,Black African,False,2013-05-17 11:01:19.452190,Maintenance,Equipment Technician,Citrusdal Pack House,Permanent,9235,23.0
+771,Tami,Holt,1985-04-06,Female,Black African,False,2021-01-22 11:01:19.452190,Administration,Office Manager,Upington,Permanent,28196,3.0
+772,Richard,Ward,2002-02-24,Male,Coloured,False,2021-11-20 11:01:19.452190,Administration,HR Assistant,Citrusdal,Contract,4563,26.0
+773,Kimberly,Little,1963-03-31,Female,White,False,2012-12-30 11:01:19.452190,Logistics,Forklift Operator,Upington,Permanent,6838,41.0
+774,Randy,Sandoval,1976-03-17,Male,White,False,2022-06-11 11:01:19.452190,Logistics,Dispatcher,Ceres Pack House,Contract,5378,39.0
+775,Maria,Williams,2006-05-19,Female,Black African,False,2024-11-14 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,3664,255.0
+776,Michael,Ross,1995-04-19,Male,Black African,False,2024-09-21 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,3620,724.0
+777,Tracie,Jordan,1959-09-03,Female,White,False,2012-07-28 11:01:19.452190,Maintenance,Equipment Technician,Graaff-Reinet,Permanent,8166,33.0
+778,Deanna,Dixon,1984-01-26,Female,Black African,False,2021-06-30 11:01:19.452190,Maintenance,Equipment Technician,Upington,Contract,11103,20.0
+779,Lauren,Johnston,1980-07-25,Female,Black African,False,2024-10-13 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,3266,17.0
+780,James,Barton,1987-06-03,Male,Black African,False,2024-10-16 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Seasonal,3709,576.0
+781,Kathryn,Cooper,1960-05-06,Female,Black African,False,2014-03-10 11:01:19.452190,Maintenance,Electrician,Graaff-Reinet,Permanent,5651,47.0
+782,Ashley,Perry,2005-05-01,Female,Black African,False,2024-11-27 11:01:19.452190,Pack House Operations,Packer,Ceres,Seasonal,4594,224.0
+783,Audrey,Shepard,1965-12-19,Female,Black African,False,2019-09-23 11:01:19.452190,Maintenance,Mechanic,Graaff-Reinet,Permanent,6317,450.0
+784,Emily,Gibson,1969-02-04,Female,Black African,False,2024-11-07 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,4725,32.0
+785,Karen,Alvarez,1979-12-11,Female,Black African,False,2024-09-18 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4652,41.0
+786,Michael,Flores,1974-12-24,Male,Black African,False,2025-02-06 11:01:19.452190,Logistics,Logistics Supervisor,Citrusdal Pack House,Permanent,13876,11.0
+787,Robert,Wilson,1999-12-05,Male,Coloured,False,2016-11-08 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Permanent,10948,209.0
+788,Maria,Byrd,1967-01-21,Female,Black African,False,2012-03-14 11:01:19.452190,Logistics,Dispatcher,Citrusdal,Permanent,7761,469.0
+789,William,Sanchez,1967-07-17,Male,Black African,False,2020-07-26 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Permanent,6674,11.0
+790,Caitlin,Castro,1998-09-03,Female,Black African,False,2024-12-17 11:01:19.452190,Citrus Production,Farm Supervisor,Ceres,Seasonal,3094,709.0
+791,David,Sullivan,1968-01-08,Male,Coloured,False,2018-12-26 11:01:19.452190,Grape Production,Pruner,Upington,Permanent,4161,476.0
+792,Martin,Reynolds,1960-07-26,Male,Black African,False,2024-11-02 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,4774,8.0
+793,Lisa,Gonzalez,1985-06-27,Female,Indian/Asian,False,2024-11-07 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4017,33.0
+794,Jasmine,Bush,1971-07-30,Female,Black African,False,2024-09-22 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres,Seasonal,3558,9.0
+795,Paul,Stokes,1966-06-03,Male,Black African,False,2022-11-16 11:01:19.452190,Maintenance,Maintenance Supervisor,Graaff-Reinet,Contract,13110,42.0
+796,Brian,Wiggins,1968-02-21,Male,Black African,False,2020-09-11 11:01:19.452190,Logistics,Warehouse Worker,Upington,Permanent,6626,49.0
+797,Erika,Ellis,1971-10-05,Female,Black African,False,2013-05-18 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Permanent,7184,19.0
+798,Shari,Rose,1989-11-04,Female,Coloured,True,2025-01-02 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,3048,5.0
+799,Linda,Carr,1987-05-06,Female,Black African,False,2025-02-14 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4076,3.0
+800,Gregory,Bruce,1986-05-24,Male,Coloured,False,2024-10-13 11:01:19.452190,Citrus Production,Farm Supervisor,Citrusdal,Seasonal,3118,21.0
+801,Robert,Mccarthy,1973-06-11,Male,Black African,False,2024-09-05 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,3266,34.0
+802,Lucas,Miller,1965-08-06,Male,Black African,False,2025-01-03 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Seasonal,4563,13.0
+803,Autumn,Torres,1970-10-04,Female,Black African,False,2025-01-21 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,3448,4.0
+804,Michael,Dixon,1979-03-30,Male,Coloured,False,2018-02-28 11:01:19.452190,Administration,Office Manager,Graaff-Reinet,Permanent,23899,457.0
+805,Chad,Reyes,1970-11-09,Male,Black African,False,2025-01-18 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4851,2.0
+806,Mark,Steele,1990-02-20,Male,White,False,2014-12-18 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Permanent,5342,12.0
+807,Zoe,Peters,1982-09-02,Female,Coloured,False,2025-02-22 11:01:19.452190,Maintenance,Equipment Technician,Citrusdal,Contract,7937,721.0
+808,Charles,Edwards,1980-10-24,Male,Black African,False,2018-02-05 11:01:19.452190,Maintenance,Equipment Technician,Graaff-Reinet,Permanent,13225,377.0
+809,Anthony,Howard,1959-08-18,Male,Black African,False,2023-09-14 11:01:19.452190,Administration,Payroll Officer,Ceres,Permanent,4401,203.0
+810,Breanna,Ochoa,2005-06-06,Female,Black African,False,2024-11-08 11:01:19.452190,Administration,Office Manager,Dullstroom,Seasonal,4362,12.0
+811,Jonathan,Simpson,1992-01-13,Male,Indian/Asian,False,2024-11-25 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,3556,2.0
+812,Jason,Larsen,1981-10-05,Male,Black African,False,2024-10-12 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,3267,39.0
+813,Bradley,Johnson,1991-07-27,Male,Black African,False,2020-08-05 11:01:19.452190,Logistics,Logistics Supervisor,Citrusdal,Permanent,13231,21.0
+814,Edgar,Hill,1984-12-21,Male,Black African,False,2013-12-27 11:01:19.452190,Administration,HR Assistant,Ceres,Permanent,5256,37.0
+815,Christopher,Ellis,1994-10-22,Male,Black African,False,2022-05-10 11:01:19.452190,Logistics,Dispatcher,Ceres Pack House,Permanent,4513,30.0
+816,Pamela,Dunn,1964-08-07,Female,Coloured,False,2020-04-07 11:01:19.452190,Grape Production,Viticulturist,Upington,Permanent,4927,3.0
+817,Ashley,Hampton,1998-09-07,Female,Black African,False,2009-06-09 11:01:19.452190,Maintenance,Mechanic,Ceres,Permanent,5879,40.0
+818,Holly,Carson,1961-03-01,Female,Black African,False,2024-07-21 11:01:19.452190,Maintenance,Maintenance Worker,Graaff-Reinet,Permanent,4615,294.0
+819,Nathan,Payne,2006-09-04,Male,Black African,False,2025-01-13 11:01:19.452190,Administration,Data Entry Clerk,Citrusdal Pack House,Contract,5024,2.0
+820,Brian,Greer,1991-03-21,Male,Black African,False,2020-03-11 11:01:19.452190,Logistics,Logistics Supervisor,Ceres Pack House,Permanent,13023,32.0
+821,Edward,Kidd,1980-10-02,Male,Black African,False,2013-06-02 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Permanent,9616,209.0
+822,Gregory,Montoya,1980-03-29,Male,Black African,False,2010-10-24 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Permanent,8309,32.0
+823,Xavier,Rowe,1970-07-17,Male,Black African,False,2021-10-31 11:01:19.452190,Administration,Data Entry Clerk,Citrusdal,Permanent,4637,28.0
+824,Robert,Matthews,1976-10-16,Male,Coloured,False,2025-02-19 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,3531,2.0
+825,Michael,Chen,1970-02-22,Male,Black African,False,2024-10-02 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4090,2.0
+826,Charles,Clark,1969-02-06,Male,Black African,False,2024-10-25 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,4333,41.0
+827,Amy,Bell,1972-08-28,Female,Black African,False,2024-10-06 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,3224,533.0
+828,Joshua,Morris,1989-07-07,Male,Black African,False,2019-05-24 11:01:19.452190,Maintenance,Maintenance Supervisor,Citrusdal Pack House,Permanent,15810,23.0
+829,Donna,Adams,2000-05-08,Female,Black African,False,2024-09-20 11:01:19.452190,Administration,HR Assistant,Dullstroom,Seasonal,4278,12.0
+830,Victoria,Shelton,1963-09-27,Female,Indian/Asian,False,2024-09-19 11:01:19.452190,Pack House Operations,Machine Operator,Ceres Pack House,Seasonal,3149,4.0
+831,Victor,Floyd,2003-04-08,Male,Black African,False,2024-09-30 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4758,11.0
+832,Wendy,Camacho,1965-04-04,Female,Black African,False,2024-09-05 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,3425,16.0
+833,Sean,Wright,1993-04-25,Male,Black African,False,2024-09-10 11:01:19.452190,Grape Production,Harvester,Upington,Seasonal,3938,771.0
+834,Ronald,Juarez,1988-07-06,Male,Indian/Asian,False,2011-02-18 11:01:19.452190,Maintenance,Maintenance Supervisor,Upington,Permanent,13676,771.0
+835,Katherine,Ray,1973-11-04,Female,Black African,False,2024-11-14 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Seasonal,3536,255.0
+836,Jason,Hayes,1989-07-31,Male,Black African,False,2024-12-05 11:01:19.452190,Administration,Admin Clerk,Citrusdal Pack House,Permanent,5289,23.0
+837,Sheryl,Davis,1983-12-01,Female,Coloured,False,2025-02-03 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,3489,11.0
+838,Diana,Mayer,1976-11-18,Female,Black African,False,2020-08-18 11:01:19.452190,Maintenance,Mechanic,Ceres,Permanent,4205,37.0
+839,Tiffany,Murphy,1959-04-15,Female,Black African,False,2024-11-24 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4054,89.0
+840,Patricia,Oconnor,1990-06-26,Female,White,False,2010-10-19 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Permanent,12123,36.0
+841,Jimmy,Beck,1977-01-24,Male,Black African,False,2017-08-09 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Permanent,14531,43.0
+842,Amy,Ferguson,1969-08-15,Female,Black African,False,2024-09-14 11:01:19.452190,Citrus Production,Farm Worker,Ceres,Contract,3566,37.0
+843,Jessica,Lewis,1973-11-01,Female,Black African,False,2012-11-20 11:01:19.452190,Logistics,Logistics Supervisor,Upington,Permanent,13607,771.0
+844,Sandra,Morgan,1984-12-22,Female,Black African,False,2009-12-08 11:01:19.452190,Citrus Production,Farm Supervisor,Ceres,Permanent,15066,709.0
+845,Keith,Washington,1976-07-17,Male,Coloured,False,2011-04-06 11:01:19.452190,Maintenance,Maintenance Supervisor,Graaff-Reinet,Permanent,11044,22.0
+846,Melanie,Williams,1967-10-03,Female,Black African,False,2024-11-10 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4280,3.0
+847,Richard,Stevens,1965-02-17,Male,Black African,False,2024-11-30 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,3351,28.0
+848,Scott,Alexander,1959-03-14,Male,White,False,2024-12-27 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,4952,21.0
+849,Tyler,Harris,1992-03-21,Male,Black African,False,2022-09-20 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Contract,7050,450.0
+850,Carlos,Santos,1966-10-19,Male,Black African,False,2025-02-07 11:01:19.452190,Administration,Office Manager,Dullstroom,Seasonal,4968,10.0
+851,Tasha,Hill,1990-08-03,Female,Black African,False,2023-03-30 11:01:19.452190,Pack House Operations,Packer,Ceres,Contract,5788,203.0
+852,David,Watson,2002-07-20,Male,Black African,False,2025-02-22 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Seasonal,3380,9.0
+853,Carol,Sanders,1973-10-31,Female,Black African,False,2024-11-30 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,4026,35.0
+854,Melissa,Young,1990-08-18,Female,Coloured,False,2013-10-13 11:01:19.452190,Logistics,Dispatcher,Ceres Pack House,Permanent,6321,14.0
+855,Michael,Smith,1982-01-20,Male,Black African,False,2024-11-27 11:01:19.452190,Maintenance,Electrician,Citrusdal,Contract,4073,21.0
+856,Casey,Perez,1991-10-22,Male,Black African,False,2024-10-28 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Seasonal,4021,11.0
+857,Adam,Dominguez,1993-08-02,Male,Black African,False,2025-01-19 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,3934,4.0
+858,Virginia,Henderson,1965-07-06,Female,Black African,False,2021-05-30 11:01:19.452190,Maintenance,Maintenance Worker,Citrusdal Pack House,Contract,5451,23.0
+859,Benjamin,Reyes,1990-06-23,Male,Coloured,False,2024-09-16 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,4872,771.0
+860,Ashley,Edwards,2001-06-15,Female,Black African,False,2023-04-26 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Contract,3668,89.0
+861,Breanna,Ayala,1995-04-27,Female,Black African,False,2023-12-05 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Permanent,5457,724.0
+862,Casey,Haney,1966-01-09,Male,White,False,2024-12-08 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,4870,20.0
+863,Kerry,Smith,1990-05-15,Female,Black African,False,2025-01-29 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,4639,38.0
+864,Jeremiah,Bowen,1989-04-25,Male,Black African,False,2024-09-26 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,4540,26.0
+865,Christian,Jenkins,1992-02-14,Male,Black African,False,2020-07-09 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Permanent,5380,2.0
+866,Scott,Miller,1963-12-28,Male,Black African,False,2015-01-02 11:01:19.452190,Maintenance,Mechanic,Graaff-Reinet,Permanent,5848,27.0
+867,Paul,Lawrence,1977-08-07,Male,Black African,False,2024-10-01 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Seasonal,3037,48.0
+868,Victor,Edwards,1965-11-17,Male,Black African,False,2016-12-03 11:01:19.452190,Logistics,Forklift Operator,Citrusdal Pack House,Permanent,7997,2.0
+869,Destiny,Miller,1985-09-24,Female,Black African,False,2024-09-08 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Seasonal,3723,47.0
+870,Lindsay,Lawson,1996-07-22,Female,Black African,False,2020-07-12 11:01:19.452190,Maintenance,Mechanic,Graaff-Reinet,Permanent,6149,384.0
+871,Melissa,Abbott,1987-11-15,Female,Black African,False,2025-02-16 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Seasonal,3834,41.0
+872,Eric,Holmes,1983-08-16,Male,Black African,False,2024-10-06 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4472,476.0
+873,Nicole,Phillips,1961-10-14,Female,White,False,2024-11-19 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,3813,11.0
+874,Steven,Blevins,1982-12-03,Male,Black African,False,2010-09-10 11:01:19.452190,Administration,HR Assistant,Dullstroom,Permanent,5923,284.0
+875,Brian,Porter,1987-09-04,Male,Coloured,False,2017-08-26 11:01:19.452190,Administration,Admin Clerk,Citrusdal,Permanent,6015,721.0
+876,Kelsey,Levine,1999-09-12,Female,Black African,False,2019-02-10 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Permanent,15543,658.0
+877,Taylor,Anderson,2000-06-26,Female,Black African,False,2024-12-07 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4823,23.0
+878,Laura,Diaz,1991-12-13,Female,White,False,2022-04-21 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Contract,5502,44.0
+879,Phillip,Best,1996-02-23,Male,Black African,False,2011-03-01 11:01:19.452190,Administration,Admin Clerk,Dullstroom,Permanent,6057,767.0
+880,Alan,Jones,1971-10-02,Male,Black African,True,2013-03-01 11:01:19.452190,Maintenance,Electrician,Ceres Pack House,Permanent,6314,32.0
+881,Andrew,Brown,1992-08-01,Male,Black African,False,2024-11-25 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Seasonal,3604,284.0
+882,Katie,Fuller,1982-03-17,Female,White,False,2017-12-31 11:01:19.452190,Cattle Farming,Livestock Supervisor,Dullstroom,Permanent,10740,12.0
+883,Jennifer,Miles,1963-02-15,Female,Black African,False,2012-02-08 11:01:19.452190,Maintenance,Mechanic,Graaff-Reinet,Permanent,5545,457.0
+884,Kimberly,Jensen,1974-02-27,Female,Black African,False,2024-11-27 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4228,22.0
+885,Eric,Dixon,1971-06-26,Male,Indian/Asian,False,2020-06-13 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres,Permanent,12012,40.0
+886,Robert,Herrera,1978-03-27,Male,Black African,False,2022-04-03 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Contract,10877,303.0
+887,Mark,Davenport,1988-09-08,Male,Black African,False,2024-11-26 11:01:19.452190,Cattle Farming,Animal Care Specialist,Dullstroom,Contract,10081,12.0
+888,Austin,Hale,1994-03-16,Male,Black African,False,2024-12-15 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,4266,15.0
+889,Ryan,Brown,1963-04-22,Male,Coloured,False,2009-12-29 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Permanent,5002,13.0
+890,Jeffrey,Chavez,1986-02-01,Male,White,False,2025-01-02 11:01:19.452190,Citrus Production,Irrigation Specialist,Citrusdal,Seasonal,4651,721.0
+891,Eric,Harmon,1990-10-31,Male,Indian/Asian,False,2022-07-06 11:01:19.452190,Maintenance,Maintenance Supervisor,Ceres Pack House,Permanent,8849,4.0
+892,Bryan,Zimmerman,1992-11-02,Male,Indian/Asian,False,2011-11-22 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Permanent,17184,11.0
+893,Carla,Benton,1982-12-30,Female,Black African,False,2012-05-14 11:01:19.452190,Cattle Farming,Animal Care Specialist,Dullstroom,Permanent,14216,36.0
+894,Richard,Le,1967-03-08,Male,Black African,False,2024-12-02 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Contract,7053,15.0
+895,Cameron,Norman,1972-01-25,Male,Black African,False,2025-01-21 11:01:19.452190,Maintenance,Mechanic,Dullstroom,Seasonal,3344,767.0
+896,Stacey,Wise,1965-03-24,Female,Coloured,False,2019-03-17 11:01:19.452190,Citrus Production,Irrigation Specialist,Ceres,Permanent,10935,203.0
+897,Renee,Nelson,1962-03-26,Female,White,False,2019-10-29 11:01:19.452190,Maintenance,Maintenance Worker,Citrusdal Pack House,Permanent,4617,43.0
+898,Michael,Ray,1962-11-13,Male,White,False,2024-12-03 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Seasonal,4712,810.0
+899,Jesse,Ward,1983-02-24,Male,Black African,False,2023-02-02 11:01:19.452190,Logistics,Warehouse Worker,Ceres Pack House,Contract,3752,5.0
+900,Keith,Richardson,1971-05-31,Male,White,False,2025-01-18 11:01:19.452190,Pack House Operations,Packer,Ceres,Seasonal,4187,203.0
+901,Ashley,Berry,1990-03-10,Female,Black African,False,2024-09-18 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Seasonal,4012,284.0
+902,Crystal,Hicks,1961-04-13,Female,Black African,False,2012-04-30 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Permanent,5831,11.0
+903,Shari,Sanchez,1981-10-23,Female,White,False,2024-12-13 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4452,19.0
+904,James,Hernandez,1997-09-09,Male,Black African,False,2014-11-07 11:01:19.452190,Logistics,Logistics Supervisor,Graaff-Reinet,Permanent,19302,294.0
+905,Scott,Tran,2003-01-14,Male,Black African,False,2025-01-09 11:01:19.452190,Logistics,Forklift Operator,Graaff-Reinet,Contract,5631,47.0
+906,Patrick,Barnes,1974-08-12,Male,Black African,False,2012-08-14 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Permanent,10364,6.0
+907,Jennifer,Cortez,1972-03-09,Female,Black African,False,2015-09-23 11:01:19.452190,Logistics,Dispatcher,Ceres Pack House,Permanent,6697,30.0
+908,Angela,Watson,1983-04-07,Female,White,False,2024-12-12 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,4166,39.0
+909,Steven,White,1997-10-10,Male,Black African,False,2024-12-10 11:01:19.452190,Maintenance,Electrician,Dullstroom,Seasonal,3563,6.0
+910,Vicki,Finley,1962-06-23,Female,Black African,True,2024-12-22 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,3643,25.0
+911,John,Campbell,1999-09-20,Male,Black African,False,2024-10-01 11:01:19.452190,Cattle Farming,Cattle Herder,Dullstroom,Seasonal,3076,44.0
+912,Garrett,Tran,1964-06-15,Male,Indian/Asian,False,2025-01-04 11:01:19.452190,Maize Production,Field Supervisor,Graaff-Reinet,Seasonal,4604,47.0
+913,Curtis,Elliott,1973-10-03,Male,Black African,False,2025-02-02 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4079,2.0
+914,Marcus,Marshall,1987-07-27,Male,White,False,2014-11-09 11:01:19.452190,Administration,Office Manager,Upington,Permanent,41629,771.0
+915,Katherine,Barton,1968-07-19,Female,Black African,False,2024-11-08 11:01:19.452190,Grape Production,Pruner,Upington,Seasonal,4513,16.0
+916,Stephanie,Hodges,1970-12-07,Female,Black African,False,2009-05-21 11:01:19.452190,Administration,Admin Clerk,Dullstroom,Permanent,6305,36.0
+917,Abigail,Ortiz,1970-05-08,Female,Indian/Asian,False,2024-09-26 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4331,41.0
+918,Hannah,Franco,2001-04-10,Female,White,False,2024-08-05 11:01:19.452190,Logistics,Forklift Operator,Upington,Permanent,5185,476.0
+919,Trevor,Smith,1987-10-31,Male,Black African,False,2024-12-25 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Seasonal,4251,18.0
+920,Sarah,Acosta,1964-02-27,Female,Black African,False,2024-12-17 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,3663,850.0
+921,Joseph,Allen,1982-10-14,Male,Black African,False,2024-09-06 11:01:19.452190,Pack House Operations,Sorter,Ceres,Seasonal,3179,17.0
+922,Amy,Shea,1993-04-29,Female,Black African,False,2018-03-02 11:01:19.452190,Maintenance,Maintenance Worker,Ceres Pack House,Permanent,7019,38.0
+923,Anna,Morse,2002-03-28,Female,Black African,False,2022-08-10 11:01:19.452190,Administration,Data Entry Clerk,Upington,Contract,3726,771.0
+924,Kelly,Haynes,1977-01-17,Female,Black African,False,2017-03-10 11:01:19.452190,Maintenance,Electrician,Dullstroom,Permanent,6923,36.0
+925,Vanessa,Miller,1963-10-03,Female,Black African,False,2025-01-09 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,3733,384.0
+926,Brandi,Wilkins,1962-10-04,Female,Black African,False,2024-07-20 11:01:19.452190,Administration,Office Manager,Dullstroom,Permanent,19038,36.0
+927,Keith,Graham,2005-06-13,Male,Black African,False,2014-05-30 11:01:19.452190,Maintenance,Electrician,Upington,Permanent,6153,41.0
+928,Cynthia,Green,1974-04-15,Female,Black African,False,2024-12-14 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,4301,11.0
+929,Robert,Haynes,1994-06-19,Male,Black African,False,2016-05-01 11:01:19.452190,Pack House Operations,Logistics Coordinator,Citrusdal Pack House,Permanent,16122,11.0
+930,Evan,Nelson,1962-10-02,Male,Black African,False,2024-11-10 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Seasonal,4783,533.0
+931,Dale,Chan,1987-03-27,Male,White,False,2010-04-13 11:01:19.452190,Logistics,Dispatcher,Citrusdal Pack House,Permanent,6737,43.0
+932,Christopher,Martin,1981-07-15,Male,Black African,False,2014-08-05 11:01:19.452190,Administration,HR Assistant,Dullstroom,Permanent,7484,658.0
+933,Jennifer,Herrera,2005-06-20,Female,Black African,False,2021-06-01 11:01:19.452190,Administration,Office Manager,Graaff-Reinet,Contract,38424,22.0
+934,Christine,Parker,1971-11-21,Female,Black African,False,2024-12-12 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Seasonal,3729,850.0
+935,Bryan,Moore,1992-02-05,Male,Black African,False,2025-02-04 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,3767,43.0
+936,Ronald,Terry,1961-02-07,Male,Black African,False,2024-12-24 11:01:19.452190,Citrus Production,Farm Worker,Citrusdal,Seasonal,4489,15.0
+937,Sara,Murphy,1963-07-19,Female,Black African,False,2021-04-02 11:01:19.452190,Maintenance,Equipment Technician,Citrusdal,Contract,10032,50.0
+938,Danielle,Kelly,1983-10-24,Female,Black African,False,2013-05-29 11:01:19.452190,Administration,HR Assistant,Ceres Pack House,Permanent,6388,29.0
+939,Megan,Green,2006-09-20,Female,White,False,2024-07-30 11:01:19.452190,Administration,Office Manager,Dullstroom,Permanent,28644,44.0
+940,Andre,Sullivan,1980-11-14,Male,Black African,True,2022-01-05 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Permanent,6478,45.0
+941,Paul,Wright,1980-10-20,Male,Black African,False,2019-05-21 11:01:19.452190,Maize Production,Crop Specialist,Graaff-Reinet,Permanent,7461,384.0
+942,Robert,Taylor,1959-09-28,Male,Black African,False,2024-10-23 11:01:19.452190,Pack House Operations,Packer,Ceres,Seasonal,4434,48.0
+943,Ronald,Haas,1965-06-10,Male,Black African,False,2018-11-04 11:01:19.452190,Maintenance,Mechanic,Citrusdal,Permanent,4974,50.0
+944,Samantha,Watson,1989-06-03,Female,Coloured,False,2022-11-18 11:01:19.452190,Administration,HR Assistant,Upington,Permanent,6010,914.0
+945,Matthew,Aguilar,1973-06-27,Male,Black African,False,2024-09-28 11:01:19.452190,Cattle Farming,Animal Care Specialist,Dullstroom,Seasonal,3297,209.0
+946,Robin,Johnson,1962-04-06,Female,Black African,False,2022-06-05 11:01:19.452190,Cattle Farming,Farm Hand,Dullstroom,Contract,4022,658.0
+947,Steven,Ramos,1965-05-07,Male,Coloured,False,2023-09-04 11:01:19.452190,Administration,Data Entry Clerk,Citrusdal,Permanent,5232,50.0
+948,Taylor,Calderon,1975-01-30,Male,White,False,2025-01-18 11:01:19.452190,Grape Production,Viticulturist,Upington,Seasonal,4824,914.0
+949,Amanda,Murray,1970-03-20,Female,Indian/Asian,False,2025-01-01 11:01:19.452190,Pack House Operations,Floor Supervisor,Citrusdal Pack House,Seasonal,4779,23.0
+950,Kenneth,Underwood,1978-02-16,Male,Black African,False,2021-02-26 11:01:19.452190,Maize Production,Tractor Driver,Graaff-Reinet,Permanent,7711,27.0
+951,Allen,Vega,1967-06-18,Male,Black African,False,2023-08-14 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Contract,5318,1.0
+952,Daniel,Lopez,1972-08-07,Male,Black African,False,2024-10-17 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,4713,939.0
+953,Sophia,Johnson,1988-11-20,Female,Black African,False,2025-02-06 11:01:19.452190,Pack House Operations,Packer,Ceres Pack House,Seasonal,4777,34.0
+954,Danielle,Phillips,1979-01-01,Female,Black African,False,2012-10-02 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Permanent,13605,32.0
+955,Krista,Brown,1972-08-06,Female,Black African,False,2021-03-07 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Permanent,8057,48.0
+956,Chad,Gonzalez,2001-08-18,Male,Black African,False,2021-12-07 11:01:19.452190,Logistics,Dispatcher,Graaff-Reinet,Contract,3757,35.0
+957,Kelly,Mccoy,1997-09-02,Female,Indian/Asian,False,2024-07-19 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Contract,7644,45.0
+958,Rebecca,Mayo,1996-09-12,Female,White,False,2025-01-04 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,4415,42.0
+959,Ian,Stephens,1982-06-07,Male,Black African,False,2024-08-18 11:01:19.452190,Logistics,Dispatcher,Graaff-Reinet,Permanent,5998,42.0
+960,Thomas,Shaw,1977-10-23,Male,Black African,False,2024-10-22 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Seasonal,3065,43.0
+961,Christopher,Flores,1972-01-20,Male,Black African,False,2024-10-15 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres Pack House,Seasonal,3694,4.0
+962,Stephanie,Osborne,1961-12-24,Female,Black African,False,2023-09-01 11:01:19.452190,Logistics,Forklift Operator,Graaff-Reinet,Contract,5784,18.0
+963,Wendy,Moreno,1995-12-23,Female,Indian/Asian,False,2024-10-19 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Seasonal,4427,2.0
+964,Yvonne,Dickson,1963-12-22,Female,Black African,False,2025-01-13 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres,Seasonal,3811,48.0
+965,Matthew,Adams,1998-05-08,Male,Black African,False,2009-10-17 11:01:19.452190,Administration,Admin Clerk,Dullstroom,Permanent,6844,6.0
+966,Thomas,Brown,2006-12-29,Male,Black African,False,2015-07-14 11:01:19.452190,Citrus Production,Tractor Driver,Citrusdal,Permanent,7194,8.0
+967,Colleen,Bradford,1997-06-10,Female,Black African,False,2022-09-14 11:01:19.452190,Pack House Operations,Packer,Citrusdal Pack House,Contract,5145,13.0
+968,Henry,Combs,1994-08-06,Male,Coloured,False,2025-01-24 11:01:19.452190,Pack House Operations,Floor Supervisor,Ceres,Seasonal,4691,203.0
+969,Casey,Watkins,1993-03-11,Female,Black African,False,2024-01-21 11:01:19.452190,Logistics,Logistics Supervisor,Citrusdal,Permanent,12112,15.0
+970,Melissa,Sloan,1960-07-09,Female,Black African,False,2014-04-20 11:01:19.452190,Maize Production,Harvester,Graaff-Reinet,Permanent,7500,35.0
+971,Mercedes,Meza,1986-03-22,Female,Black African,False,2010-06-07 11:01:19.452190,Administration,Data Entry Clerk,Graaff-Reinet,Permanent,4925,42.0
+972,Kristine,Lopez,2006-08-04,Female,White,False,2024-08-02 11:01:19.452190,Pack House Operations,Quality Inspector,Citrusdal Pack House,Permanent,4649,11.0
+973,Sierra,Vasquez,1974-01-01,Female,Black African,False,2025-01-15 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,3989,38.0
+974,Katherine,Davis,1970-05-02,Female,Black African,False,2024-09-08 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Seasonal,3967,9.0
+975,Colleen,Fox,1964-03-11,Female,Black African,False,2019-02-18 11:01:19.452190,Cattle Farming,Animal Care Specialist,Dullstroom,Permanent,9085,939.0
+976,Thomas,Harris,1965-06-06,Male,Black African,False,2014-12-27 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres,Permanent,18436,48.0
+977,Mitchell,Sellers,1999-09-10,Male,Black African,False,2020-03-11 11:01:19.452190,Pack House Operations,Machine Operator,Ceres,Permanent,7739,224.0
+978,Erica,Johnson,1987-04-29,Female,Indian/Asian,False,2011-08-20 11:01:19.452190,Logistics,Dispatcher,Upington,Permanent,6953,771.0
+979,Sylvia,Schroeder,1999-10-19,Female,Black African,False,2024-10-12 11:01:19.452190,Pack House Operations,Quality Inspector,Ceres Pack House,Seasonal,3499,38.0
+980,Shannon,Yu,1977-02-05,Female,Black African,False,2025-01-24 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,3235,457.0
+981,Teresa,Foster,1964-01-07,Female,Indian/Asian,False,2024-09-12 11:01:19.452190,Maize Production,Farm Worker,Graaff-Reinet,Seasonal,3424,377.0
+982,Elizabeth,Taylor,1966-09-23,Female,White,False,2025-02-09 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,4563,767.0
+983,Tiffany,Conner,2005-04-12,Female,Black African,False,2020-06-01 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres,Permanent,14040,224.0
+984,Matthew,Thompson,2005-09-01,Male,Black African,False,2024-10-07 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,4636,14.0
+985,Melissa,Mcfarland,1996-12-10,Female,Black African,False,2011-11-06 11:01:19.452190,Administration,Office Manager,Ceres Pack House,Permanent,35183,14.0
+986,Daniel,Chapman,1967-08-02,Male,Black African,False,2024-10-30 11:01:19.452190,Citrus Production,Harvester,Citrusdal,Seasonal,4219,724.0
+987,Elizabeth,Barker,1965-04-12,Female,Black African,False,2015-01-02 11:01:19.452190,Maintenance,Maintenance Worker,Upington,Permanent,4844,914.0
+988,Monica,Rush,2004-09-14,Female,Black African,False,2024-10-03 11:01:19.452190,Grape Production,Vineyard Worker,Upington,Seasonal,4729,25.0
+989,James,Gamble,2005-06-30,Male,Black African,True,2024-09-27 11:01:19.452190,Maintenance,Maintenance Worker,Dullstroom,Seasonal,3269,576.0
+990,Amanda,Guzman,2003-05-18,Female,Black African,False,2024-10-05 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Seasonal,3145,48.0
+991,Walter,Walker,1986-04-25,Male,Black African,False,2018-02-02 11:01:19.452190,Citrus Production,Tractor Driver,Ceres,Permanent,6528,224.0
+992,Taylor,Taylor,1994-12-11,Female,Black African,False,2025-01-16 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres Pack House,Seasonal,4728,985.0
+993,David,Haas,1967-03-24,Male,Black African,False,2024-12-06 11:01:19.452190,Pack House Operations,Logistics Coordinator,Ceres,Seasonal,4086,40.0
+994,Stacey,Davis,1993-03-13,Female,Coloured,False,2025-01-31 11:01:19.452190,Maintenance,Equipment Technician,Dullstroom,Seasonal,4123,6.0
+995,Mark,Tanner,1980-08-09,Male,Black African,False,2022-12-21 11:01:19.452190,Maintenance,Electrician,Dullstroom,Permanent,3720,284.0
+996,Deborah,Wright,1962-06-03,Female,Black African,False,2024-11-27 11:01:19.452190,Pack House Operations,Sorter,Ceres Pack House,Seasonal,4322,34.0
+997,Dawn,Rodriguez,1959-03-25,Female,White,False,2013-04-10 11:01:19.452190,Citrus Production,Harvester,Ceres,Permanent,5899,37.0
+998,Jasmin,Oconnor,2005-09-07,Female,White,False,2024-12-29 11:01:19.452190,Pack House Operations,Sorter,Citrusdal Pack House,Seasonal,4491,23.0
+999,Stephen,Snyder,1977-10-20,Male,White,False,2025-01-15 11:01:19.452190,Maintenance,Maintenance Supervisor,Dullstroom,Seasonal,3948,576.0
+1000,Kimberly,Garcia,1981-06-06,Female,Black African,False,2025-02-05 11:01:19.452190,Grape Production,Vineyard Supervisor,Upington,Contract,14219,476.0
